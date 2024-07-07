@@ -1,0 +1,1133 @@
+﻿Email id,From Name,From seniority,From Department,To Name,To seniority,To Department,Email topic,Date,Sentiment,Is opened?,Device,Within work hours,Within workdays
+1,Leona McAree,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,Operational Issues,3/14/2024,neutral,opened,desktop,yes,yes
+2,Leona McAree,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,HR related topics,3/22/2024,positive,opened,mobile,no,yes
+3,Leona McAree,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,Meeting Scheduling,3/26/2024,neutral,unopened,desktop,yes,yes
+4,Leona McAree,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,HR related topics,3/11/2024,neutral,opened,mobile,yes,yes
+5,Leona McAree,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,HR related topics,3/11/2024,positive,opened,mobile,yes,yes
+6,Leona McAree,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,Training and Development,3/14/2024,neutral,opened,desktop,yes,yes
+7,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/15/2024,negative,opened,desktop,yes,yes
+8,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Training and Development,3/7/2024,positive,opened,desktop,yes,yes
+9,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/27/2024,neutral,opened,mobile,yes,yes
+10,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Meeting Scheduling,3/29/2024,neutral,opened,mobile,yes,yes
+11,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/28/2024,neutral,opened,desktop,yes,yes
+12,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Client Related Communication,3/26/2024,neutral,unopened,desktop,yes,yes
+13,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/20/2024,negative,opened,desktop,yes,yes
+14,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Operational Issues,3/6/2024,positive,opened,desktop,no,yes
+15,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/12/2024,neutral,opened,desktop,yes,yes
+16,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Product Development,3/28/2024,neutral,opened,desktop,yes,yes
+17,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Legal Matters,3/29/2024,neutral,opened,desktop,no,yes
+18,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/6/2024,negative,opened,desktop,yes,yes
+19,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/22/2024,neutral,opened,desktop,yes,yes
+20,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Internal Policies and Procedures,3/19/2024,neutral,opened,desktop,yes,yes
+21,Leona McAree,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Internal Policies and Procedures,3/15/2024,neutral,opened,desktop,yes,yes
+22,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/15/2024,positive,opened,mobile,yes,yes
+23,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Product Development,3/4/2024,negative,unopened,mobile,yes,yes
+24,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Technical Support,3/15/2024,positive,opened,desktop,yes,yes
+25,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/29/2024,neutral,unopened,desktop,yes,yes
+26,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Operational Issues,3/11/2024,neutral,opened,desktop,yes,yes
+27,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/19/2024,positive,opened,desktop,yes,yes
+28,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Product Development,3/12/2024,neutral,opened,desktop,yes,yes
+29,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Training and Development,3/4/2024,neutral,opened,mobile,yes,yes
+30,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/18/2024,positive,opened,desktop,yes,yes
+31,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/12/2024,positive,opened,mobile,no,yes
+32,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/28/2024,neutral,opened,desktop,yes,yes
+33,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/17/2024,neutral,unopened,desktop,no,no
+34,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Project Updates,3/11/2024,neutral,opened,desktop,yes,yes
+35,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Meeting Scheduling,3/12/2024,neutral,opened,desktop,yes,yes
+36,Leona McAree,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/28/2024,positive,opened,desktop,no,yes
+37,Leona McAree,C-level,Executive Management,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/29/2024,negative,opened,desktop,yes,yes
+38,Leona McAree,C-level,Executive Management,Emmey Matoshin,Middle level management,Sales,Project Updates,3/12/2024,neutral,opened,mobile,yes,yes
+39,Leona McAree,C-level,Executive Management,Emmey Matoshin,Middle level management,Sales,Meeting Scheduling,3/22/2024,neutral,opened,desktop,yes,yes
+40,Leona McAree,C-level,Executive Management,Emmey Matoshin,Middle level management,Sales,Legal Matters,3/29/2024,positive,opened,desktop,yes,yes
+41,Leona McAree,C-level,Executive Management,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/5/2024,neutral,opened,mobile,no,yes
+42,Leona McAree,C-level,Executive Management,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/15/2024,neutral,opened,desktop,yes,yes
+43,Leona McAree,C-level,Executive Management,Emmey Matoshin,Middle level management,Sales,Legal Matters,3/29/2024,neutral,opened,desktop,no,yes
+44,Leona McAree,C-level,Executive Management,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/27/2024,positive,opened,desktop,yes,yes
+45,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Operational Issues,3/15/2024,neutral,opened,desktop,yes,yes
+46,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Internal Policies and Procedures,3/22/2024,neutral,opened,mobile,yes,yes
+47,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Project Updates,3/19/2024,positive,opened,desktop,yes,yes
+48,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Operational Issues,3/12/2024,neutral,opened,desktop,yes,yes
+49,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Security Alerts,3/7/2024,neutral,opened,desktop,no,yes
+50,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/25/2024,positive,opened,desktop,no,yes
+51,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/13/2024,neutral,opened,desktop,yes,yes
+52,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Operational Issues,3/8/2024,neutral,opened,desktop,yes,yes
+53,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/25/2024,neutral,opened,desktop,yes,yes
+54,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/11/2024,neutral,opened,desktop,yes,yes
+55,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Internal Policies and Procedures,3/1/2024,neutral,unopened,desktop,no,yes
+56,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Meeting Scheduling,3/15/2024,neutral,opened,desktop,yes,yes
+57,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/5/2024,neutral,opened,desktop,yes,yes
+58,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/12/2024,neutral,opened,desktop,no,yes
+59,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/19/2024,neutral,opened,desktop,yes,yes
+60,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Operational Issues,3/29/2024,neutral,opened,desktop,yes,yes
+61,Leona McAree,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/4/2024,neutral,opened,mobile,yes,yes
+62,Leona McAree,C-level,Executive Management,Mata McGifford,Middle level management,Customer Service,Project Updates,3/29/2024,neutral,opened,mobile,yes,yes
+63,Leona McAree,C-level,Executive Management,Mata McGifford,Middle level management,Customer Service,Client Related Communication,3/8/2024,positive,opened,desktop,no,yes
+64,Leona McAree,C-level,Executive Management,Mata McGifford,Middle level management,Customer Service,Internal Policies and Procedures,3/4/2024,positive,opened,desktop,yes,yes
+65,Leona McAree,C-level,Executive Management,Mata McGifford,Middle level management,Customer Service,Operational Issues,3/28/2024,neutral,opened,desktop,yes,yes
+66,Leona McAree,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Project Updates,3/12/2024,neutral,opened,desktop,yes,yes
+67,Leona McAree,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Training and Development,3/13/2024,positive,opened,desktop,yes,yes
+68,Leona McAree,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/15/2024,neutral,opened,mobile,yes,yes
+69,Leona McAree,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,HR related topics,3/29/2024,neutral,opened,desktop,yes,yes
+70,Leona McAree,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Meeting Scheduling,3/12/2024,neutral,opened,desktop,yes,yes
+71,Leona McAree,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/12/2024,negative,opened,desktop,no,yes
+72,Leona McAree,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Internal Policies and Procedures,3/25/2024,positive,opened,desktop,yes,yes
+73,Leona McAree,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/4/2024,positive,opened,desktop,yes,yes
+74,Leona McAree,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/6/2024,neutral,opened,desktop,yes,yes
+75,Leona McAree,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/15/2024,positive,opened,desktop,no,yes
+76,Leona McAree,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Product Development,3/4/2024,neutral,unopened,desktop,yes,yes
+77,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,HR related topics,3/25/2024,neutral,opened,mobile,yes,yes
+78,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Internal Policies and Procedures,3/7/2024,neutral,opened,desktop,yes,yes
+79,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Project Updates,3/11/2024,neutral,opened,desktop,yes,yes
+80,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Sales and Marketing,3/12/2024,neutral,opened,desktop,yes,yes
+81,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/5/2024,neutral,opened,desktop,yes,yes
+82,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/28/2024,positive,opened,mobile,yes,yes
+83,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/4/2024,positive,opened,desktop,no,yes
+84,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/15/2024,neutral,opened,desktop,no,yes
+85,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/5/2024,neutral,opened,desktop,yes,yes
+86,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Operational Issues,3/28/2024,neutral,unopened,desktop,yes,yes
+87,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/5/2024,neutral,opened,desktop,yes,yes
+88,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/19/2024,neutral,opened,desktop,yes,yes
+89,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Training and Development,3/28/2024,negative,opened,mobile,yes,yes
+90,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/26/2024,positive,opened,desktop,yes,yes
+91,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Sales and Marketing,3/13/2024,positive,opened,desktop,yes,yes
+92,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,HR related topics,3/18/2024,neutral,opened,desktop,yes,yes
+93,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/4/2024,positive,opened,desktop,yes,yes
+94,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/12/2024,neutral,unopened,desktop,yes,yes
+95,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/5/2024,neutral,opened,desktop,no,yes
+96,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Sales and Marketing,3/25/2024,positive,opened,desktop,yes,yes
+97,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/7/2024,positive,opened,desktop,yes,yes
+98,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Project Updates,3/25/2024,neutral,opened,desktop,yes,yes
+99,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Operational Issues,3/29/2024,positive,opened,desktop,yes,yes
+100,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Project Updates,3/21/2024,negative,opened,desktop,yes,yes
+101,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/15/2024,positive,opened,mobile,no,yes
+102,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/28/2024,neutral,opened,mobile,yes,yes
+103,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Project Updates,3/11/2024,neutral,opened,mobile,yes,yes
+104,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Sales and Marketing,3/29/2024,neutral,unopened,desktop,yes,yes
+105,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/4/2024,neutral,opened,mobile,yes,yes
+106,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Sales and Marketing,3/12/2024,positive,unopened,desktop,yes,yes
+107,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Project Updates,3/12/2024,positive,opened,desktop,yes,yes
+108,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/14/2024,neutral,opened,desktop,no,yes
+109,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/15/2024,neutral,opened,desktop,yes,yes
+110,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Security Alerts,3/18/2024,neutral,opened,desktop,yes,yes
+111,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Sales and Marketing,3/29/2024,negative,opened,desktop,yes,yes
+112,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/22/2024,neutral,opened,desktop,no,yes
+113,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/12/2024,neutral,opened,desktop,yes,yes
+114,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/4/2024,neutral,opened,desktop,yes,yes
+115,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Operational Issues,3/15/2024,positive,opened,desktop,yes,yes
+116,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/4/2024,positive,opened,desktop,yes,yes
+117,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Project Updates,3/28/2024,neutral,unopened,desktop,yes,yes
+118,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/11/2024,neutral,opened,desktop,yes,yes
+119,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Project Updates,3/15/2024,positive,opened,desktop,yes,yes
+185,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/26/2024,positive,opened,desktop,yes,yes
+186,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/25/2024,neutral,opened,desktop,yes,yes
+187,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Project Updates,3/19/2024,positive,opened,desktop,yes,yes
+188,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/4/2024,positive,opened,desktop,yes,yes
+189,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/8/2024,neutral,opened,desktop,yes,yes
+190,Leona McAree,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Vendor Relations,3/7/2024,neutral,opened,desktop,yes,yes
+191,Constancia Di Bartolomeo,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,Meeting Scheduling,3/15/2024,positive,opened,desktop,yes,yes
+192,Constancia Di Bartolomeo,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,Internal Policies and Procedures,3/14/2024,positive,opened,desktop,no,yes
+193,Constancia Di Bartolomeo,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,Project Updates,3/17/2024,positive,opened,mobile,no,no
+194,Constancia Di Bartolomeo,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,HR related topics,3/27/2024,negative,opened,desktop,yes,yes
+195,Constancia Di Bartolomeo,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,HR related topics,3/21/2024,neutral,opened,desktop,yes,yes
+196,Constancia Di Bartolomeo,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,Operational Issues,3/17/2024,positive,opened,desktop,no,no
+197,Constancia Di Bartolomeo,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Meeting Scheduling,3/29/2024,neutral,opened,mobile,no,yes
+198,Constancia Di Bartolomeo,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/27/2024,neutral,opened,desktop,yes,yes
+199,Constancia Di Bartolomeo,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/15/2024,neutral,opened,desktop,yes,yes
+200,Constancia Di Bartolomeo,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/7/2024,neutral,opened,desktop,yes,yes
+201,Constancia Di Bartolomeo,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Internal Policies and Procedures,3/29/2024,neutral,opened,desktop,no,yes
+202,Constancia Di Bartolomeo,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Product Development,3/18/2024,neutral,opened,mobile,yes,yes
+203,Constancia Di Bartolomeo,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Project Updates,3/8/2024,neutral,opened,desktop,no,yes
+204,Constancia Di Bartolomeo,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/12/2024,neutral,opened,desktop,yes,yes
+205,Constancia Di Bartolomeo,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Legal Matters,3/29/2024,positive,opened,desktop,yes,yes
+206,Constancia Di Bartolomeo,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Vendor Relations,3/15/2024,positive,opened,desktop,yes,yes
+207,Constancia Di Bartolomeo,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/15/2024,neutral,opened,desktop,yes,yes
+208,Constancia Di Bartolomeo,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/19/2024,neutral,unopened,desktop,yes,yes
+209,Constancia Di Bartolomeo,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Product Development,3/12/2024,negative,opened,desktop,yes,yes
+210,Constancia Di Bartolomeo,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/20/2024,neutral,opened,desktop,yes,yes
+211,Constancia Di Bartolomeo,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Operational Issues,3/17/2024,neutral,opened,mobile,no,no
+212,Constancia Di Bartolomeo,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),HR related topics,3/15/2024,positive,unopened,mobile,yes,yes
+213,Constancia Di Bartolomeo,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Meeting Scheduling,3/20/2024,neutral,opened,desktop,no,yes
+214,Constancia Di Bartolomeo,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/18/2024,neutral,unopened,desktop,yes,yes
+215,Constancia Di Bartolomeo,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Project Updates,3/12/2024,neutral,opened,desktop,yes,yes
+216,Constancia Di Bartolomeo,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Meeting Scheduling,3/19/2024,neutral,unopened,desktop,yes,yes
+217,Constancia Di Bartolomeo,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Meeting Scheduling,3/22/2024,neutral,opened,desktop,yes,yes
+218,Constancia Di Bartolomeo,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/8/2024,positive,opened,desktop,yes,yes
+219,Constancia Di Bartolomeo,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/6/2024,neutral,opened,desktop,yes,yes
+220,Constancia Di Bartolomeo,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,HR related topics,3/1/2024,neutral,opened,desktop,no,yes
+221,Constancia Di Bartolomeo,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/7/2024,positive,opened,mobile,yes,yes
+222,Constancia Di Bartolomeo,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/8/2024,negative,opened,desktop,yes,yes
+223,Constancia Di Bartolomeo,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/11/2024,positive,opened,mobile,no,yes
+224,Constancia Di Bartolomeo,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Product Development,3/6/2024,neutral,opened,mobile,no,yes
+225,Constancia Di Bartolomeo,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/16/2024,neutral,opened,mobile,no,no
+226,Constancia Di Bartolomeo,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/15/2024,positive,opened,desktop,yes,yes
+227,Constancia Di Bartolomeo,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/28/2024,positive,unopened,desktop,yes,yes
+228,Constancia Di Bartolomeo,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Meeting Scheduling,3/11/2024,positive,opened,desktop,yes,yes
+229,Constancia Di Bartolomeo,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Training and Development,3/29/2024,neutral,opened,desktop,yes,yes
+230,Corey Scandwright,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,HR related topics,3/14/2024,negative,opened,desktop,yes,yes
+231,Corey Scandwright,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,Meeting Scheduling,3/5/2024,neutral,opened,desktop,no,yes
+232,Corey Scandwright,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,Legal Matters,3/12/2024,neutral,opened,mobile,yes,yes
+233,Corey Scandwright,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,Meeting Scheduling,3/12/2024,positive,opened,desktop,yes,yes
+234,Corey Scandwright,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/7/2024,positive,opened,desktop,yes,yes
+235,Corey Scandwright,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/20/2024,neutral,opened,mobile,yes,yes
+236,Corey Scandwright,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/7/2024,positive,opened,mobile,yes,yes
+237,Corey Scandwright,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Project Updates,3/19/2024,neutral,opened,desktop,yes,yes
+238,Corey Scandwright,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Meeting Scheduling,3/15/2024,positive,opened,desktop,yes,yes
+239,Corey Scandwright,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Technical Support,3/18/2024,neutral,opened,desktop,yes,yes
+240,Corey Scandwright,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/22/2024,neutral,opened,mobile,yes,yes
+241,Corey Scandwright,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Legal Matters,3/6/2024,positive,opened,mobile,yes,yes
+242,Corey Scandwright,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Legal Matters,3/26/2024,negative,opened,desktop,yes,yes
+243,Corey Scandwright,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/26/2024,positive,opened,desktop,no,yes
+244,Corey Scandwright,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/19/2024,neutral,opened,mobile,yes,yes
+245,Corey Scandwright,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Project Updates,3/1/2024,positive,opened,desktop,no,yes
+246,Corey Scandwright,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/15/2024,positive,opened,desktop,yes,yes
+247,Corey Scandwright,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/23/2024,neutral,unopened,desktop,no,no
+248,Corey Scandwright,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/11/2024,neutral,opened,desktop,yes,yes
+249,Corey Scandwright,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/21/2024,neutral,opened,mobile,yes,yes
+250,Corey Scandwright,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Project Updates,3/20/2024,neutral,opened,mobile,yes,yes
+251,Corey Scandwright,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Sales and Marketing,3/25/2024,positive,unopened,mobile,yes,yes
+252,Corey Scandwright,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Vendor Relations,3/15/2024,positive,unopened,desktop,no,yes
+253,Corey Scandwright,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Training and Development,3/1/2024,neutral,opened,desktop,no,yes
+254,Corey Scandwright,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Product Development,3/12/2024,neutral,opened,desktop,yes,yes
+255,Corey Scandwright,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Sales and Marketing,3/14/2024,neutral,opened,desktop,yes,yes
+256,Corey Scandwright,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/12/2024,neutral,opened,desktop,no,yes
+257,Corey Scandwright,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Sales and Marketing,3/12/2024,neutral,opened,desktop,yes,yes
+258,Corey Scandwright,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Internal Policies and Procedures,3/4/2024,neutral,opened,desktop,yes,yes
+259,Corey Scandwright,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Project Updates,3/25/2024,neutral,opened,mobile,yes,yes
+260,Corey Scandwright,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Sales and Marketing,3/14/2024,neutral,opened,desktop,yes,yes
+261,Leona McAree,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Project Updates,3/26/2024,positive,opened,desktop,yes,yes
+262,Leona McAree,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Legal Matters,3/8/2024,neutral,opened,desktop,yes,yes
+263,Leona McAree,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Meeting Scheduling,3/6/2024,neutral,opened,desktop,yes,yes
+264,Leona McAree,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Legal Matters,3/25/2024,negative,opened,desktop,yes,yes
+265,Leona McAree,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Product Development,3/21/2024,neutral,opened,desktop,yes,yes
+266,Leona McAree,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Product Development,3/13/2024,neutral,opened,desktop,yes,yes
+267,Leona McAree,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Training and Development,3/20/2024,neutral,opened,mobile,yes,yes
+268,Leona McAree,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Operational Issues,3/29/2024,positive,unopened,desktop,no,yes
+269,Leona McAree,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,HR related topics,3/6/2024,positive,opened,desktop,yes,yes
+270,Leona McAree,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Legal Matters,3/18/2024,neutral,opened,desktop,yes,yes
+271,Leona McAree,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Meeting Scheduling,3/4/2024,neutral,opened,mobile,yes,yes
+272,Leona McAree,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Project Updates,3/8/2024,neutral,opened,desktop,yes,yes
+273,Leona McAree,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Client Related Communication,3/20/2024,neutral,opened,desktop,yes,yes
+274,Leona McAree,C-level,Executive Management,Corey Scandwright,C-level,Executive Management,Product Development,3/14/2024,neutral,opened,desktop,yes,yes
+275,Leona McAree,C-level,Executive Management,Corey Scandwright,C-level,Executive Management,HR related topics,3/5/2024,neutral,opened,mobile,yes,yes
+276,Leona McAree,C-level,Executive Management,Corey Scandwright,C-level,Executive Management,Project Updates,3/16/2024,neutral,opened,desktop,no,no
+277,Leona McAree,C-level,Executive Management,Corey Scandwright,C-level,Executive Management,Meeting Scheduling,3/13/2024,neutral,opened,desktop,yes,yes
+278,Leona McAree,C-level,Executive Management,Corey Scandwright,C-level,Executive Management,Product Development,3/14/2024,neutral,opened,desktop,yes,yes
+279,Constancia Di Bartolomeo,C-level,Executive Management,Corey Scandwright,C-level,Executive Management,Product Development,3/21/2024,negative,opened,desktop,yes,yes
+280,Constancia Di Bartolomeo,C-level,Executive Management,Corey Scandwright,C-level,Executive Management,Meeting Scheduling,3/21/2024,neutral,opened,desktop,yes,yes
+281,Constancia Di Bartolomeo,C-level,Executive Management,Corey Scandwright,C-level,Executive Management,Product Development,3/19/2024,positive,opened,desktop,yes,yes
+282,Constancia Di Bartolomeo,C-level,Executive Management,Corey Scandwright,C-level,Executive Management,Operational Issues,3/14/2024,negative,opened,desktop,yes,yes
+283,Constancia Di Bartolomeo,C-level,Executive Management,Corey Scandwright,C-level,Executive Management,Vendor Relations,3/13/2024,neutral,opened,desktop,no,yes
+284,Constancia Di Bartolomeo,C-level,Executive Management,Corey Scandwright,C-level,Executive Management,HR related topics,3/6/2024,neutral,opened,desktop,yes,yes
+285,Constancia Di Bartolomeo,C-level,Executive Management,Corey Scandwright,C-level,Executive Management,Legal Matters,3/29/2024,neutral,opened,desktop,yes,yes
+286,Corey Scandwright,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Product Development,3/20/2024,positive,opened,desktop,yes,yes
+287,Corey Scandwright,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Project Updates,3/4/2024,negative,opened,desktop,yes,yes
+288,Corey Scandwright,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Legal Matters,3/15/2024,negative,opened,desktop,yes,yes
+289,Corey Scandwright,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Legal Matters,3/11/2024,neutral,opened,desktop,yes,yes
+290,Corey Scandwright,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Product Development,3/21/2024,neutral,opened,mobile,yes,yes
+291,Corey Scandwright,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Operational Issues,3/6/2024,neutral,opened,mobile,no,yes
+292,Corey Scandwright,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,HR related topics,3/6/2024,neutral,opened,desktop,yes,yes
+293,Corey Scandwright,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Internal Policies and Procedures,3/13/2024,neutral,opened,desktop,yes,yes
+294,Corey Scandwright,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Legal Matters,3/4/2024,neutral,unopened,mobile,yes,yes
+295,Corey Scandwright,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Operational Issues,3/25/2024,neutral,opened,mobile,yes,yes
+296,Corey Scandwright,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Project Updates,3/15/2024,negative,opened,desktop,no,yes
+297,Corey Scandwright,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,HR related topics,3/23/2024,neutral,opened,desktop,no,no
+298,Corey Scandwright,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,HR related topics,3/25/2024,positive,opened,desktop,yes,yes
+299,Corey Scandwright,C-level,Executive Management,Constancia Di Bartolomeo,C-level,Executive Management,Product Development,3/19/2024,neutral,opened,desktop,yes,yes
+300,Constancia Di Bartolomeo,C-level,Executive Management,Leona McAree,C-level,Executive Management,Operational Issues,3/22/2024,neutral,opened,desktop,yes,yes
+301,Constancia Di Bartolomeo,C-level,Executive Management,Leona McAree,C-level,Executive Management,HR related topics,3/29/2024,neutral,opened,mobile,yes,yes
+302,Constancia Di Bartolomeo,C-level,Executive Management,Leona McAree,C-level,Executive Management,HR related topics,3/5/2024,positive,opened,mobile,yes,yes
+303,Constancia Di Bartolomeo,C-level,Executive Management,Leona McAree,C-level,Executive Management,Product Development,3/22/2024,positive,opened,desktop,yes,yes
+304,Constancia Di Bartolomeo,C-level,Executive Management,Leona McAree,C-level,Executive Management,Operational Issues,3/15/2024,positive,opened,desktop,yes,yes
+305,Constancia Di Bartolomeo,C-level,Executive Management,Leona McAree,C-level,Executive Management,Operational Issues,3/16/2024,positive,opened,mobile,no,no
+306,Constancia Di Bartolomeo,C-level,Executive Management,Leona McAree,C-level,Executive Management,Vendor Relations,3/25/2024,positive,opened,mobile,yes,yes
+307,Constancia Di Bartolomeo,C-level,Executive Management,Leona McAree,C-level,Executive Management,Legal Matters,3/18/2024,neutral,opened,desktop,yes,yes
+308,Constancia Di Bartolomeo,C-level,Executive Management,Leona McAree,C-level,Executive Management,Legal Matters,3/27/2024,neutral,opened,desktop,yes,yes
+309,Mata McGifford,Middle level management,Customer Service,Mort De Benedictis,Professional,Customer Service,Project Updates,3/29/2024,neutral,opened,desktop,yes,yes
+310,Mata McGifford,Middle level management,Customer Service,Mort De Benedictis,Professional,Customer Service,Client Related Communication,3/25/2024,positive,unopened,desktop,yes,yes
+311,Mata McGifford,Middle level management,Customer Service,Mort De Benedictis,Professional,Customer Service,Operational Issues,3/15/2024,positive,opened,desktop,yes,yes
+312,Mata McGifford,Middle level management,Customer Service,Mort De Benedictis,Professional,Customer Service,Client Related Communication,3/22/2024,neutral,opened,desktop,yes,yes
+313,Mata McGifford,Middle level management,Customer Service,Mort De Benedictis,Professional,Customer Service,Security Alerts,3/22/2024,neutral,opened,mobile,yes,yes
+314,Mata McGifford,Middle level management,Customer Service,Mort De Benedictis,Professional,Customer Service,Client Related Communication,3/28/2024,positive,opened,desktop,yes,yes
+315,Mata McGifford,Middle level management,Customer Service,Mort De Benedictis,Professional,Customer Service,Client Related Communication,3/6/2024,neutral,opened,desktop,yes,yes
+316,Mata McGifford,Middle level management,Customer Service,Mort De Benedictis,Professional,Customer Service,Operational Issues,3/7/2024,neutral,opened,desktop,yes,yes
+317,Mata McGifford,Middle level management,Customer Service,Mort De Benedictis,Professional,Customer Service,Client Related Communication,3/12/2024,neutral,opened,mobile,yes,yes
+318,Mata McGifford,Middle level management,Customer Service,Mort De Benedictis,Professional,Customer Service,Client Related Communication,3/27/2024,neutral,opened,desktop,yes,yes
+319,Mata McGifford,Middle level management,Customer Service,Mort De Benedictis,Professional,Customer Service,Client Related Communication,3/8/2024,neutral,opened,mobile,no,yes
+320,Mata McGifford,Middle level management,Customer Service,Mort De Benedictis,Professional,Customer Service,Client Related Communication,3/26/2024,neutral,opened,desktop,yes,yes
+321,Mata McGifford,Middle level management,Customer Service,Tamara Brewitt,Professional,Customer Service,Client Related Communication,3/15/2024,positive,opened,desktop,yes,yes
+322,Mata McGifford,Middle level management,Customer Service,Tamara Brewitt,Professional,Customer Service,Internal Policies and Procedures,3/12/2024,neutral,opened,desktop,yes,yes
+323,Mata McGifford,Middle level management,Customer Service,Tamara Brewitt,Professional,Customer Service,Client Related Communication,3/20/2024,positive,unopened,desktop,yes,yes
+324,Mata McGifford,Middle level management,Customer Service,Tamara Brewitt,Professional,Customer Service,Client Related Communication,3/29/2024,neutral,opened,desktop,yes,yes
+325,Mata McGifford,Middle level management,Customer Service,Tamara Brewitt,Professional,Customer Service,Meeting Scheduling,3/21/2024,negative,opened,mobile,yes,yes
+326,Mata McGifford,Middle level management,Customer Service,Tamara Brewitt,Professional,Customer Service,Project Updates,3/23/2024,neutral,unopened,mobile,no,no
+327,Mata McGifford,Middle level management,Customer Service,Tamara Brewitt,Professional,Customer Service,Client Related Communication,3/28/2024,positive,opened,desktop,yes,yes
+328,Mata McGifford,Middle level management,Customer Service,Tamara Brewitt,Professional,Customer Service,Client Related Communication,3/12/2024,negative,opened,desktop,yes,yes
+329,Mata McGifford,Middle level management,Customer Service,Tamara Brewitt,Professional,Customer Service,Internal Policies and Procedures,3/26/2024,neutral,opened,mobile,yes,yes
+330,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Project Updates,3/5/2024,negative,opened,desktop,yes,yes
+331,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,HR related topics,3/20/2024,negative,unopened,desktop,yes,yes
+332,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Client Related Communication,3/20/2024,positive,opened,mobile,yes,yes
+333,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Client Related Communication,3/23/2024,neutral,opened,desktop,no,no
+334,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Client Related Communication,3/11/2024,neutral,opened,mobile,yes,yes
+335,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Training and Development,3/25/2024,neutral,opened,mobile,yes,yes
+336,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Training and Development,3/8/2024,positive,opened,desktop,no,yes
+337,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Client Related Communication,3/25/2024,neutral,opened,desktop,yes,yes
+338,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Project Updates,3/15/2024,neutral,opened,desktop,yes,yes
+339,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Client Related Communication,3/14/2024,positive,opened,desktop,no,yes
+340,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Client Related Communication,3/13/2024,neutral,opened,mobile,no,yes
+341,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Client Related Communication,3/6/2024,neutral,opened,mobile,yes,yes
+342,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Operational Issues,3/5/2024,positive,opened,desktop,yes,yes
+343,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Training and Development,3/8/2024,neutral,opened,mobile,yes,yes
+344,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Training and Development,3/18/2024,neutral,opened,desktop,yes,yes
+345,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Meeting Scheduling,3/20/2024,neutral,opened,desktop,yes,yes
+346,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Client Related Communication,3/7/2024,positive,opened,desktop,no,yes
+347,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Client Related Communication,3/20/2024,neutral,opened,desktop,yes,yes
+348,Mata McGifford,Middle level management,Customer Service,Edithe Cinnamond,Professional,Customer Service,Client Related Communication,3/19/2024,positive,opened,mobile,yes,yes
+349,Mata McGifford,Middle level management,Customer Service,Morly Finey,Professional,Customer Service,Client Related Communication,3/20/2024,positive,opened,mobile,yes,yes
+350,Mata McGifford,Middle level management,Customer Service,Morly Finey,Professional,Customer Service,Meeting Scheduling,3/13/2024,neutral,opened,desktop,yes,yes
+351,Mata McGifford,Middle level management,Customer Service,Morly Finey,Professional,Customer Service,Client Related Communication,3/6/2024,positive,opened,desktop,no,yes
+352,Mata McGifford,Middle level management,Customer Service,Morly Finey,Professional,Customer Service,Vendor Relations,3/27/2024,positive,opened,desktop,yes,yes
+353,Mata McGifford,Middle level management,Customer Service,Morly Finey,Professional,Customer Service,Client Related Communication,3/28/2024,negative,opened,desktop,yes,yes
+354,Mata McGifford,Middle level management,Customer Service,Angie Penticost,Professional,Customer Service,Client Related Communication,3/20/2024,positive,opened,desktop,yes,yes
+355,Mata McGifford,Middle level management,Customer Service,Angie Penticost,Professional,Customer Service,Technical Support,3/16/2024,negative,opened,mobile,no,no
+356,Mata McGifford,Middle level management,Customer Service,Angie Penticost,Professional,Customer Service,Project Updates,3/11/2024,neutral,opened,desktop,yes,yes
+357,Mata McGifford,Middle level management,Customer Service,Angie Penticost,Professional,Customer Service,Client Related Communication,3/11/2024,positive,unopened,desktop,yes,yes
+358,Mata McGifford,Middle level management,Customer Service,Angie Penticost,Professional,Customer Service,Client Related Communication,3/20/2024,positive,opened,mobile,yes,yes
+359,Mata McGifford,Middle level management,Customer Service,Angie Penticost,Professional,Customer Service,Operational Issues,3/7/2024,neutral,opened,mobile,yes,yes
+360,Mata McGifford,Middle level management,Customer Service,Angie Penticost,Professional,Customer Service,Operational Issues,3/6/2024,neutral,opened,desktop,yes,yes
+361,Mata McGifford,Middle level management,Customer Service,Angie Penticost,Professional,Customer Service,Client Related Communication,3/12/2024,neutral,opened,desktop,yes,yes
+362,Mata McGifford,Middle level management,Customer Service,Maribelle Oliver,Professional,Customer Service,Client Related Communication,3/4/2024,positive,opened,desktop,yes,yes
+363,Mata McGifford,Middle level management,Customer Service,Maribelle Oliver,Professional,Customer Service,Meeting Scheduling,3/26/2024,neutral,opened,desktop,yes,yes
+364,Mata McGifford,Middle level management,Customer Service,Maribelle Oliver,Professional,Customer Service,Client Related Communication,3/23/2024,neutral,unopened,desktop,no,no
+365,Mata McGifford,Middle level management,Customer Service,Maribelle Oliver,Professional,Customer Service,Project Updates,3/27/2024,positive,opened,desktop,yes,yes
+366,Mata McGifford,Middle level management,Customer Service,Maribelle Oliver,Professional,Customer Service,Client Related Communication,3/25/2024,negative,opened,desktop,yes,yes
+367,Mata McGifford,Middle level management,Customer Service,Maribelle Oliver,Professional,Customer Service,Client Related Communication,3/11/2024,negative,opened,desktop,yes,yes
+368,Mata McGifford,Middle level management,Customer Service,Maribelle Oliver,Professional,Customer Service,Client Related Communication,3/6/2024,negative,opened,mobile,yes,yes
+369,Mata McGifford,Middle level management,Customer Service,Maribelle Oliver,Professional,Customer Service,Internal Policies and Procedures,3/20/2024,neutral,opened,desktop,no,yes
+370,Mort De Benedictis,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Operational Issues,3/5/2024,neutral,opened,desktop,yes,yes
+371,Mort De Benedictis,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Client Related Communication,3/19/2024,neutral,opened,desktop,yes,yes
+372,Mort De Benedictis,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Client Related Communication,3/12/2024,neutral,unopened,desktop,yes,yes
+373,Mort De Benedictis,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Client Related Communication,3/8/2024,negative,opened,desktop,yes,yes
+374,Mort De Benedictis,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Project Updates,3/14/2024,neutral,opened,mobile,yes,yes
+375,Tamara Brewitt,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Client Related Communication,3/29/2024,neutral,unopened,mobile,yes,yes
+376,Tamara Brewitt,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Security Alerts,3/5/2024,neutral,opened,mobile,yes,yes
+377,Tamara Brewitt,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Client Related Communication,3/25/2024,neutral,unopened,desktop,no,yes
+378,Tamara Brewitt,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Meeting Scheduling,3/20/2024,negative,opened,desktop,yes,yes
+379,Edithe Cinnamond,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Operational Issues,3/29/2024,neutral,opened,desktop,no,yes
+380,Angie Penticost,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Client Related Communication,3/12/2024,positive,opened,mobile,yes,yes
+381,Angie Penticost,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Client Related Communication,3/8/2024,negative,opened,desktop,yes,yes
+382,Angie Penticost,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Client Related Communication,3/11/2024,negative,opened,desktop,yes,yes
+383,Maribelle Oliver,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Client Related Communication,3/20/2024,neutral,opened,desktop,yes,yes
+384,Maribelle Oliver,Professional,Customer Service,Mata McGifford,Middle level management,Customer Service,Project Updates,3/6/2024,neutral,opened,desktop,yes,yes
+385,Mort De Benedictis,Professional,Customer Service,Tamara Brewitt,Professional,Customer Service,Operational Issues,3/26/2024,neutral,opened,desktop,yes,yes
+386,Mort De Benedictis,Professional,Customer Service,Tamara Brewitt,Professional,Customer Service,Legal Matters,3/4/2024,negative,opened,mobile,no,yes
+387,Mort De Benedictis,Professional,Customer Service,Tamara Brewitt,Professional,Customer Service,Training and Development,3/21/2024,positive,opened,desktop,yes,yes
+388,Mort De Benedictis,Professional,Customer Service,Tamara Brewitt,Professional,Customer Service,Client Related Communication,3/29/2024,neutral,opened,desktop,yes,yes
+389,Mort De Benedictis,Professional,Customer Service,Edithe Cinnamond,Professional,Customer Service,Operational Issues,3/28/2024,negative,opened,mobile,yes,yes
+390,Mort De Benedictis,Professional,Customer Service,Edithe Cinnamond,Professional,Customer Service,Project Updates,3/22/2024,positive,opened,mobile,yes,yes
+391,Mort De Benedictis,Professional,Customer Service,Edithe Cinnamond,Professional,Customer Service,Meeting Scheduling,3/25/2024,neutral,opened,desktop,yes,yes
+392,Morly Finey,Professional,Customer Service,Angie Penticost,Professional,Customer Service,Meeting Scheduling,3/19/2024,positive,opened,desktop,no,yes
+393,Morly Finey,Professional,Customer Service,Angie Penticost,Professional,Customer Service,Client Related Communication,3/11/2024,positive,opened,desktop,yes,yes
+394,Morly Finey,Professional,Customer Service,Angie Penticost,Professional,Customer Service,Client Related Communication,3/21/2024,neutral,opened,desktop,no,yes
+395,Morly Finey,Professional,Customer Service,Angie Penticost,Professional,Customer Service,Client Related Communication,3/21/2024,neutral,opened,desktop,yes,yes
+396,Angie Penticost,Professional,Customer Service,Maribelle Oliver,Professional,Customer Service,Client Related Communication,3/26/2024,positive,opened,desktop,yes,yes
+397,Angie Penticost,Professional,Customer Service,Maribelle Oliver,Professional,Customer Service,Project Updates,3/19/2024,neutral,opened,desktop,yes,yes
+398,Angie Penticost,Professional,Customer Service,Maribelle Oliver,Professional,Customer Service,Client Related Communication,3/16/2024,positive,opened,desktop,no,no
+399,Angie Penticost,Professional,Customer Service,Maribelle Oliver,Professional,Customer Service,Operational Issues,3/30/2024,neutral,opened,desktop,no,no
+400,Maribelle Oliver,Professional,Customer Service,Tamara Brewitt,Professional,Customer Service,Client Related Communication,3/21/2024,positive,opened,desktop,yes,yes
+401,Maribelle Oliver,Professional,Customer Service,Tamara Brewitt,Professional,Customer Service,Operational Issues,3/5/2024,positive,opened,mobile,yes,yes
+402,Maribelle Oliver,Professional,Customer Service,Tamara Brewitt,Professional,Customer Service,Meeting Scheduling,3/21/2024,neutral,opened,desktop,yes,yes
+403,Blithe Arnaudet,Middle level management,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Meeting Scheduling,3/5/2024,positive,opened,desktop,yes,yes
+404,Blithe Arnaudet,Middle level management,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Finance and Accounting,3/13/2024,neutral,opened,desktop,yes,yes
+405,Blithe Arnaudet,Middle level management,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Internal Policies and Procedures,3/27/2024,positive,opened,desktop,yes,yes
+406,Blithe Arnaudet,Middle level management,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Finance and Accounting,3/23/2024,neutral,opened,desktop,no,no
+407,Blithe Arnaudet,Middle level management,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Project Updates,3/12/2024,positive,opened,desktop,yes,yes
+408,Blithe Arnaudet,Middle level management,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Finance and Accounting,3/18/2024,neutral,opened,desktop,yes,yes
+409,Blithe Arnaudet,Middle level management,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Finance and Accounting,3/19/2024,neutral,opened,desktop,yes,yes
+410,Blithe Arnaudet,Middle level management,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Training and Development,3/14/2024,neutral,opened,mobile,no,yes
+411,Blithe Arnaudet,Middle level management,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Finance and Accounting,3/25/2024,negative,opened,desktop,yes,yes
+412,Blithe Arnaudet,Middle level management,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Project Updates,3/18/2024,positive,opened,desktop,no,yes
+413,Blithe Arnaudet,Middle level management,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Finance and Accounting,3/15/2024,positive,opened,mobile,yes,yes
+414,Blithe Arnaudet,Middle level management,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Finance and Accounting,3/18/2024,positive,opened,desktop,yes,yes
+415,Blithe Arnaudet,Middle level management,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Finance and Accounting,3/11/2024,neutral,opened,desktop,yes,yes
+416,Blithe Arnaudet,Middle level management,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Finance and Accounting,3/18/2024,neutral,unopened,mobile,yes,yes
+417,Blithe Arnaudet,Middle level management,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Finance and Accounting,3/26/2024,positive,opened,desktop,yes,yes
+418,Blithe Arnaudet,Middle level management,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Meeting Scheduling,3/6/2024,neutral,opened,mobile,yes,yes
+419,Blithe Arnaudet,Middle level management,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Operational Issues,3/30/2024,positive,opened,desktop,no,no
+420,Constantino FitzGilbert,Professional,Finance and Accounting,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/19/2024,neutral,opened,desktop,no,yes
+421,Constantino FitzGilbert,Professional,Finance and Accounting,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/13/2024,positive,opened,desktop,yes,yes
+422,Constantino FitzGilbert,Professional,Finance and Accounting,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/21/2024,neutral,opened,mobile,yes,yes
+423,Constantino FitzGilbert,Professional,Finance and Accounting,Blithe Arnaudet,Middle level management,Finance and Accounting,Meeting Scheduling,3/6/2024,positive,opened,desktop,yes,yes
+424,Constantino FitzGilbert,Professional,Finance and Accounting,Blithe Arnaudet,Middle level management,Finance and Accounting,Project Updates,3/21/2024,negative,unopened,desktop,yes,yes
+425,Constantino FitzGilbert,Professional,Finance and Accounting,Blithe Arnaudet,Middle level management,Finance and Accounting,Internal Policies and Procedures,3/4/2024,neutral,opened,desktop,yes,yes
+426,Constantino FitzGilbert,Professional,Finance and Accounting,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/6/2024,neutral,opened,desktop,yes,yes
+427,Constantino FitzGilbert,Professional,Finance and Accounting,Blithe Arnaudet,Middle level management,Finance and Accounting,Training and Development,3/18/2024,neutral,opened,desktop,yes,yes
+428,Constantino FitzGilbert,Professional,Finance and Accounting,Blithe Arnaudet,Middle level management,Finance and Accounting,Meeting Scheduling,3/7/2024,neutral,opened,desktop,yes,yes
+429,Ozzy Jeffries,Professional,Finance and Accounting,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/19/2024,neutral,opened,mobile,yes,yes
+430,Ozzy Jeffries,Professional,Finance and Accounting,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/26/2024,positive,opened,desktop,yes,yes
+431,Ozzy Jeffries,Professional,Finance and Accounting,Blithe Arnaudet,Middle level management,Finance and Accounting,Operational Issues,3/20/2024,neutral,opened,desktop,yes,yes
+432,Ozzy Jeffries,Professional,Finance and Accounting,Blithe Arnaudet,Middle level management,Finance and Accounting,Project Updates,3/13/2024,neutral,opened,desktop,no,yes
+433,Ozzy Jeffries,Professional,Finance and Accounting,Blithe Arnaudet,Middle level management,Finance and Accounting,Training and Development,3/5/2024,neutral,opened,desktop,yes,yes
+434,Ozzy Jeffries,Professional,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Finance and Accounting,3/7/2024,neutral,opened,desktop,yes,yes
+435,Ozzy Jeffries,Professional,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Meeting Scheduling,3/21/2024,neutral,opened,mobile,yes,yes
+436,Ozzy Jeffries,Professional,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Finance and Accounting,3/13/2024,neutral,opened,mobile,yes,yes
+437,Ozzy Jeffries,Professional,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Meeting Scheduling,3/22/2024,neutral,opened,desktop,yes,yes
+438,Ozzy Jeffries,Professional,Finance and Accounting,Constantino FitzGilbert,Professional,Finance and Accounting,Internal Policies and Procedures,3/14/2024,neutral,opened,desktop,yes,yes
+439,Constantino FitzGilbert,Professional,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Operational Issues,3/21/2024,neutral,opened,desktop,no,yes
+440,Constantino FitzGilbert,Professional,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Operational Issues,3/4/2024,positive,opened,desktop,no,yes
+441,Constantino FitzGilbert,Professional,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Finance and Accounting,3/6/2024,neutral,opened,desktop,yes,yes
+442,Constantino FitzGilbert,Professional,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,HR related topics,3/12/2024,positive,unopened,desktop,yes,yes
+443,Constantino FitzGilbert,Professional,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Finance and Accounting,3/21/2024,neutral,opened,desktop,no,yes
+444,Constantino FitzGilbert,Professional,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Finance and Accounting,3/11/2024,positive,opened,mobile,yes,yes
+445,Constantino FitzGilbert,Professional,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Finance and Accounting,3/7/2024,neutral,opened,desktop,yes,yes
+446,Constantino FitzGilbert,Professional,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Finance and Accounting,3/6/2024,neutral,opened,mobile,yes,yes
+447,Constantino FitzGilbert,Professional,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Finance and Accounting,3/14/2024,neutral,opened,desktop,yes,yes
+448,Constantino FitzGilbert,Professional,Finance and Accounting,Ozzy Jeffries,Professional,Finance and Accounting,Internal Policies and Procedures,3/13/2024,neutral,opened,desktop,yes,yes
+449,Elsinore Waterland,Middle level management,Human Resources,Petronilla Mapes,Professional,Human Resources,HR related topics,3/4/2024,negative,opened,desktop,yes,yes
+450,Elsinore Waterland,Middle level management,Human Resources,Petronilla Mapes,Professional,Human Resources,Project Updates,3/19/2024,negative,opened,desktop,yes,yes
+451,Elsinore Waterland,Middle level management,Human Resources,Petronilla Mapes,Professional,Human Resources,HR related topics,3/5/2024,neutral,opened,mobile,no,yes
+452,Elsinore Waterland,Middle level management,Human Resources,Petronilla Mapes,Professional,Human Resources,Meeting Scheduling,3/26/2024,positive,opened,desktop,yes,yes
+453,Elsinore Waterland,Middle level management,Human Resources,Petronilla Mapes,Professional,Human Resources,Operational Issues,3/6/2024,positive,opened,desktop,yes,yes
+454,Elsinore Waterland,Middle level management,Human Resources,Petronilla Mapes,Professional,Human Resources,Internal Policies and Procedures,3/20/2024,neutral,unopened,mobile,yes,yes
+455,Elsinore Waterland,Middle level management,Human Resources,Petronilla Mapes,Professional,Human Resources,Operational Issues,3/14/2024,neutral,opened,desktop,yes,yes
+456,Elsinore Waterland,Middle level management,Human Resources,Petronilla Mapes,Professional,Human Resources,HR related topics,3/11/2024,neutral,opened,desktop,yes,yes
+457,Elsinore Waterland,Middle level management,Human Resources,Elbertine Dowe,Professional,Human Resources,HR related topics,3/30/2024,positive,opened,desktop,no,no
+458,Elsinore Waterland,Middle level management,Human Resources,Elbertine Dowe,Professional,Human Resources,HR related topics,3/13/2024,neutral,opened,mobile,yes,yes
+459,Elsinore Waterland,Middle level management,Human Resources,Elbertine Dowe,Professional,Human Resources,Internal Policies and Procedures,3/26/2024,positive,opened,desktop,yes,yes
+460,Elsinore Waterland,Middle level management,Human Resources,Elbertine Dowe,Professional,Human Resources,Meeting Scheduling,3/12/2024,neutral,opened,desktop,no,yes
+461,Elsinore Waterland,Middle level management,Human Resources,Elbertine Dowe,Professional,Human Resources,HR related topics,3/5/2024,negative,opened,mobile,no,yes
+462,Elsinore Waterland,Middle level management,Human Resources,Elbertine Dowe,Professional,Human Resources,Meeting Scheduling,3/21/2024,neutral,opened,desktop,yes,yes
+463,Elsinore Waterland,Middle level management,Human Resources,Elbertine Dowe,Professional,Human Resources,Project Updates,3/22/2024,positive,opened,mobile,yes,yes
+464,Elsinore Waterland,Middle level management,Human Resources,Elbertine Dowe,Professional,Human Resources,Operational Issues,3/12/2024,negative,opened,desktop,yes,yes
+465,Elsinore Waterland,Middle level management,Human Resources,Elbertine Dowe,Professional,Human Resources,HR related topics,3/29/2024,neutral,opened,desktop,yes,yes
+466,Elsinore Waterland,Middle level management,Human Resources,Elbertine Dowe,Professional,Human Resources,HR related topics,3/26/2024,neutral,opened,desktop,yes,yes
+467,Elsinore Waterland,Middle level management,Human Resources,Elbertine Dowe,Professional,Human Resources,Project Updates,3/14/2024,positive,opened,mobile,yes,yes
+468,Elsinore Waterland,Middle level management,Human Resources,Elbertine Dowe,Professional,Human Resources,Meeting Scheduling,3/4/2024,neutral,opened,desktop,no,yes
+469,Petronilla Mapes,Professional,Human Resources,Elsinore Waterland,Middle level management,Human Resources,Operational Issues,3/23/2024,neutral,opened,mobile,no,no
+470,Petronilla Mapes,Professional,Human Resources,Elsinore Waterland,Middle level management,Human Resources,HR related topics,3/8/2024,positive,opened,desktop,yes,yes
+471,Petronilla Mapes,Professional,Human Resources,Elsinore Waterland,Middle level management,Human Resources,HR related topics,3/15/2024,negative,opened,desktop,yes,yes
+472,Petronilla Mapes,Professional,Human Resources,Elsinore Waterland,Middle level management,Human Resources,HR related topics,3/11/2024,neutral,unopened,desktop,yes,yes
+473,Petronilla Mapes,Professional,Human Resources,Elsinore Waterland,Middle level management,Human Resources,Training and Development,3/7/2024,neutral,opened,desktop,yes,yes
+474,Elbertine Dowe,Professional,Human Resources,Elsinore Waterland,Middle level management,Human Resources,HR related topics,3/4/2024,neutral,unopened,desktop,yes,yes
+475,Petronilla Mapes,Professional,Human Resources,Elbertine Dowe,Professional,Human Resources,HR related topics,3/30/2024,neutral,opened,desktop,no,no
+476,Petronilla Mapes,Professional,Human Resources,Elbertine Dowe,Professional,Human Resources,Operational Issues,3/26/2024,neutral,opened,desktop,yes,yes
+477,Petronilla Mapes,Professional,Human Resources,Elbertine Dowe,Professional,Human Resources,HR related topics,3/19/2024,positive,opened,desktop,no,yes
+478,Petronilla Mapes,Professional,Human Resources,Elbertine Dowe,Professional,Human Resources,Meeting Scheduling,3/7/2024,neutral,opened,mobile,no,yes
+479,Petronilla Mapes,Professional,Human Resources,Elbertine Dowe,Professional,Human Resources,HR related topics,3/7/2024,neutral,opened,mobile,yes,yes
+480,Petronilla Mapes,Professional,Human Resources,Elbertine Dowe,Professional,Human Resources,HR related topics,3/21/2024,neutral,opened,desktop,yes,yes
+481,Petronilla Mapes,Professional,Human Resources,Elbertine Dowe,Professional,Human Resources,Operational Issues,3/5/2024,neutral,opened,desktop,no,yes
+482,Elbertine Dowe,Professional,Human Resources,Petronilla Mapes,Professional,Human Resources,HR related topics,3/13/2024,neutral,opened,desktop,yes,yes
+483,Elbertine Dowe,Professional,Human Resources,Petronilla Mapes,Professional,Human Resources,Meeting Scheduling,3/25/2024,negative,opened,mobile,yes,yes
+484,Elbertine Dowe,Professional,Human Resources,Petronilla Mapes,Professional,Human Resources,HR related topics,3/25/2024,positive,opened,mobile,yes,yes
+485,Elbertine Dowe,Professional,Human Resources,Petronilla Mapes,Professional,Human Resources,HR related topics,3/13/2024,neutral,opened,desktop,yes,yes
+486,Abigael Alred,Middle level management,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Operational Issues,3/11/2024,neutral,opened,desktop,yes,yes
+487,Abigael Alred,Middle level management,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Technical Support,3/7/2024,neutral,opened,desktop,yes,yes
+488,Abigael Alred,Middle level management,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Project Updates,3/26/2024,neutral,unopened,desktop,yes,yes
+489,Abigael Alred,Middle level management,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Technical Support,3/5/2024,negative,opened,desktop,no,yes
+490,Abigael Alred,Middle level management,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Security Alerts,3/18/2024,negative,opened,desktop,yes,yes
+491,Abigael Alred,Middle level management,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Security Alerts,3/26/2024,positive,unopened,desktop,yes,yes
+492,Abigael Alred,Middle level management,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Technical Support,3/11/2024,positive,opened,mobile,yes,yes
+493,Abigael Alred,Middle level management,Information Technology (IT),Madge Torrejon,Professional,Information Technology (IT),Operational Issues,3/14/2024,neutral,opened,mobile,yes,yes
+494,Abigael Alred,Middle level management,Information Technology (IT),Madge Torrejon,Professional,Information Technology (IT),Meeting Scheduling,3/30/2024,negative,opened,desktop,no,no
+495,Abigael Alred,Middle level management,Information Technology (IT),Madge Torrejon,Professional,Information Technology (IT),Operational Issues,3/25/2024,neutral,opened,mobile,yes,yes
+496,Abigael Alred,Middle level management,Information Technology (IT),Madge Torrejon,Professional,Information Technology (IT),Technical Support,3/13/2024,neutral,opened,desktop,yes,yes
+497,Abigael Alred,Middle level management,Information Technology (IT),Madge Torrejon,Professional,Information Technology (IT),Project Updates,3/14/2024,neutral,unopened,desktop,yes,yes
+498,Abigael Alred,Middle level management,Information Technology (IT),Marilyn Seeman,Professional,Information Technology (IT),Security Alerts,3/11/2024,neutral,opened,desktop,yes,yes
+499,Abigael Alred,Middle level management,Information Technology (IT),Marilyn Seeman,Professional,Information Technology (IT),Meeting Scheduling,3/26/2024,neutral,opened,mobile,yes,yes
+500,Abigael Alred,Middle level management,Information Technology (IT),Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/18/2024,positive,opened,mobile,yes,yes
+501,Abigael Alred,Middle level management,Information Technology (IT),Marilyn Seeman,Professional,Information Technology (IT),Meeting Scheduling,3/19/2024,neutral,opened,desktop,no,yes
+502,Abigael Alred,Middle level management,Information Technology (IT),Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/18/2024,positive,opened,mobile,no,yes
+503,Abigael Alred,Middle level management,Information Technology (IT),Marilyn Seeman,Professional,Information Technology (IT),Operational Issues,3/5/2024,negative,opened,desktop,no,yes
+504,Abigael Alred,Middle level management,Information Technology (IT),Katina Darter,Professional,Information Technology (IT),Technical Support,3/12/2024,positive,opened,desktop,yes,yes
+505,Abigael Alred,Middle level management,Information Technology (IT),Katina Darter,Professional,Information Technology (IT),Meeting Scheduling,3/19/2024,neutral,opened,desktop,yes,yes
+506,Abigael Alred,Middle level management,Information Technology (IT),Katina Darter,Professional,Information Technology (IT),Technical Support,3/5/2024,positive,opened,desktop,no,yes
+507,Abigael Alred,Middle level management,Information Technology (IT),Katina Darter,Professional,Information Technology (IT),Operational Issues,3/4/2024,neutral,opened,desktop,yes,yes
+508,Abigael Alred,Middle level management,Information Technology (IT),Katina Darter,Professional,Information Technology (IT),Internal Policies and Procedures,3/13/2024,positive,opened,desktop,yes,yes
+509,Abigael Alred,Middle level management,Information Technology (IT),Katina Darter,Professional,Information Technology (IT),Technical Support,3/21/2024,positive,opened,desktop,yes,yes
+510,Abigael Alred,Middle level management,Information Technology (IT),Katina Darter,Professional,Information Technology (IT),Technical Support,3/26/2024,neutral,opened,desktop,yes,yes
+511,Abigael Alred,Middle level management,Information Technology (IT),Katina Darter,Professional,Information Technology (IT),Technical Support,3/21/2024,neutral,opened,mobile,yes,yes
+512,Abigael Alred,Middle level management,Information Technology (IT),Lynett Amy,Professional,Information Technology (IT),Security Alerts,3/5/2024,positive,opened,mobile,yes,yes
+513,Abigael Alred,Middle level management,Information Technology (IT),Lynett Amy,Professional,Information Technology (IT),Security Alerts,3/5/2024,neutral,opened,desktop,yes,yes
+514,Abigael Alred,Middle level management,Information Technology (IT),Lynett Amy,Professional,Information Technology (IT),Technical Support,3/11/2024,neutral,opened,desktop,yes,yes
+515,Abigael Alred,Middle level management,Information Technology (IT),Lynett Amy,Professional,Information Technology (IT),Technical Support,3/12/2024,positive,unopened,desktop,yes,yes
+516,Abigael Alred,Middle level management,Information Technology (IT),Lynett Amy,Professional,Information Technology (IT),Security Alerts,3/6/2024,neutral,opened,desktop,yes,yes
+517,Abigael Alred,Middle level management,Information Technology (IT),Lynett Amy,Professional,Information Technology (IT),Meeting Scheduling,3/23/2024,positive,opened,desktop,no,no
+518,Abigael Alred,Middle level management,Information Technology (IT),Lynett Amy,Professional,Information Technology (IT),Technical Support,3/11/2024,neutral,opened,desktop,yes,yes
+519,Abigael Alred,Middle level management,Information Technology (IT),Lynett Amy,Professional,Information Technology (IT),Technical Support,3/5/2024,neutral,opened,desktop,no,yes
+520,Reina Trobey,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),HR related topics,3/13/2024,positive,opened,mobile,no,yes
+521,Reina Trobey,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/19/2024,neutral,opened,desktop,yes,yes
+522,Reina Trobey,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Operational Issues,3/21/2024,neutral,opened,desktop,yes,yes
+523,Madge Torrejon,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Meeting Scheduling,3/23/2024,negative,opened,desktop,no,no
+524,Madge Torrejon,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/4/2024,neutral,opened,desktop,yes,yes
+525,Madge Torrejon,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/26/2024,neutral,unopened,desktop,yes,yes
+526,Madge Torrejon,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Operational Issues,3/7/2024,neutral,opened,desktop,yes,yes
+527,Madge Torrejon,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/21/2024,positive,opened,desktop,yes,yes
+528,Madge Torrejon,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Meeting Scheduling,3/11/2024,neutral,opened,mobile,yes,yes
+529,Madge Torrejon,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),HR related topics,3/18/2024,neutral,opened,desktop,yes,yes
+530,Marilyn Seeman,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Legal Matters,3/5/2024,neutral,opened,desktop,yes,yes
+531,Marilyn Seeman,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Project Updates,3/29/2024,neutral,opened,mobile,yes,yes
+532,Marilyn Seeman,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/13/2024,positive,opened,mobile,yes,yes
+533,Marilyn Seeman,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/25/2024,positive,opened,mobile,yes,yes
+534,Marilyn Seeman,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Project Updates,3/12/2024,neutral,opened,desktop,yes,yes
+535,Marilyn Seeman,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Training and Development,3/7/2024,neutral,opened,desktop,yes,yes
+536,Marilyn Seeman,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Security Alerts,3/14/2024,neutral,opened,desktop,no,yes
+537,Katina Darter,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Meeting Scheduling,3/13/2024,neutral,opened,mobile,no,yes
+538,Katina Darter,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Meeting Scheduling,3/30/2024,negative,opened,desktop,no,no
+539,Lynett Amy,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Legal Matters,3/21/2024,positive,opened,mobile,yes,yes
+540,Lynett Amy,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/23/2024,positive,opened,desktop,no,no
+541,Lynett Amy,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Technical Support,3/26/2024,positive,opened,desktop,no,yes
+542,Lynett Amy,Professional,Information Technology (IT),Abigael Alred,Middle level management,Information Technology (IT),Internal Policies and Procedures,3/7/2024,neutral,opened,desktop,yes,yes
+543,Reina Trobey,Professional,Information Technology (IT),Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/8/2024,neutral,opened,desktop,yes,yes
+544,Reina Trobey,Professional,Information Technology (IT),Marilyn Seeman,Professional,Information Technology (IT),Project Updates,3/12/2024,positive,opened,mobile,yes,yes
+545,Reina Trobey,Professional,Information Technology (IT),Marilyn Seeman,Professional,Information Technology (IT),Project Updates,3/22/2024,positive,opened,desktop,yes,yes
+546,Reina Trobey,Professional,Information Technology (IT),Marilyn Seeman,Professional,Information Technology (IT),Client Related Communication,3/5/2024,positive,opened,desktop,no,yes
+547,Reina Trobey,Professional,Information Technology (IT),Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/19/2024,neutral,opened,desktop,yes,yes
+548,Reina Trobey,Professional,Information Technology (IT),Marilyn Seeman,Professional,Information Technology (IT),Client Related Communication,3/5/2024,neutral,opened,desktop,yes,yes
+549,Reina Trobey,Professional,Information Technology (IT),Marilyn Seeman,Professional,Information Technology (IT),Operational Issues,3/24/2024,positive,opened,desktop,no,no
+550,Reina Trobey,Professional,Information Technology (IT),Marilyn Seeman,Professional,Information Technology (IT),Vendor Relations,3/21/2024,positive,opened,desktop,yes,yes
+551,Marilyn Seeman,Professional,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Technical Support,3/25/2024,positive,opened,desktop,yes,yes
+552,Marilyn Seeman,Professional,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Technical Support,3/30/2024,negative,opened,desktop,no,no
+553,Marilyn Seeman,Professional,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Project Updates,3/4/2024,neutral,opened,desktop,yes,yes
+554,Marilyn Seeman,Professional,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Client Related Communication,3/5/2024,neutral,unopened,mobile,yes,yes
+555,Marilyn Seeman,Professional,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Security Alerts,3/11/2024,neutral,opened,desktop,yes,yes
+556,Marilyn Seeman,Professional,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Technical Support,3/6/2024,neutral,opened,desktop,no,yes
+557,Marilyn Seeman,Professional,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Technical Support,3/22/2024,negative,opened,mobile,no,yes
+558,Marilyn Seeman,Professional,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Internal Policies and Procedures,3/13/2024,neutral,opened,desktop,yes,yes
+559,Marilyn Seeman,Professional,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Technical Support,3/28/2024,positive,opened,desktop,yes,yes
+560,Marilyn Seeman,Professional,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Operational Issues,3/20/2024,neutral,opened,desktop,yes,yes
+561,Marilyn Seeman,Professional,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Technical Support,3/26/2024,negative,opened,desktop,yes,yes
+562,Marilyn Seeman,Professional,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Legal Matters,3/26/2024,neutral,opened,desktop,yes,yes
+563,Marilyn Seeman,Professional,Information Technology (IT),Reina Trobey,Professional,Information Technology (IT),Technical Support,3/5/2024,neutral,opened,mobile,no,yes
+564,Madge Torrejon,Professional,Information Technology (IT),Lynett Amy,Professional,Information Technology (IT),Technical Support,3/26/2024,positive,opened,desktop,yes,yes
+565,Madge Torrejon,Professional,Information Technology (IT),Lynett Amy,Professional,Information Technology (IT),Project Updates,3/27/2024,neutral,opened,desktop,yes,yes
+566,Madge Torrejon,Professional,Information Technology (IT),Lynett Amy,Professional,Information Technology (IT),Project Updates,3/25/2024,positive,opened,desktop,yes,yes
+567,Madge Torrejon,Professional,Information Technology (IT),Lynett Amy,Professional,Information Technology (IT),Operational Issues,3/21/2024,neutral,opened,desktop,yes,yes
+568,Madge Torrejon,Professional,Information Technology (IT),Lynett Amy,Professional,Information Technology (IT),Client Related Communication,3/5/2024,neutral,opened,desktop,no,yes
+569,Madge Torrejon,Professional,Information Technology (IT),Lynett Amy,Professional,Information Technology (IT),HR related topics,3/14/2024,neutral,unopened,mobile,yes,yes
+570,Lynett Amy,Professional,Information Technology (IT),Madge Torrejon,Professional,Information Technology (IT),Operational Issues,3/26/2024,positive,opened,desktop,yes,yes
+571,Lynett Amy,Professional,Information Technology (IT),Madge Torrejon,Professional,Information Technology (IT),Meeting Scheduling,3/27/2024,positive,unopened,mobile,yes,yes
+572,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Project Updates,3/8/2024,neutral,opened,mobile,yes,yes
+573,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Meeting Scheduling,3/25/2024,neutral,opened,desktop,yes,yes
+574,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Vendor Relations,3/18/2024,positive,opened,mobile,yes,yes
+575,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Operational Issues,3/12/2024,negative,opened,desktop,yes,yes
+576,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Project Updates,3/12/2024,positive,opened,desktop,yes,yes
+577,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Meeting Scheduling,3/13/2024,negative,opened,mobile,no,yes
+578,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Legal Matters,3/20/2024,positive,opened,desktop,yes,yes
+579,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Internal Policies and Procedures,3/22/2024,neutral,opened,desktop,yes,yes
+580,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Legal Matters,3/12/2024,positive,opened,desktop,yes,yes
+581,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Legal Matters,3/22/2024,neutral,opened,mobile,yes,yes
+582,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Meeting Scheduling,3/29/2024,positive,opened,desktop,yes,yes
+583,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Meeting Scheduling,3/26/2024,neutral,opened,desktop,yes,yes
+584,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Operational Issues,3/6/2024,neutral,opened,desktop,yes,yes
+585,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Operational Issues,3/25/2024,neutral,opened,desktop,yes,yes
+586,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Legal Matters,3/11/2024,positive,opened,mobile,yes,yes
+587,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Vendor Relations,3/5/2024,positive,opened,desktop,yes,yes
+588,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Internal Policies and Procedures,3/18/2024,positive,opened,desktop,yes,yes
+589,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/26/2024,neutral,opened,desktop,yes,yes
+590,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/22/2024,positive,opened,mobile,yes,yes
+591,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/11/2024,neutral,opened,mobile,yes,yes
+592,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Training and Development,3/15/2024,positive,opened,desktop,yes,yes
+593,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/20/2024,negative,unopened,desktop,yes,yes
+594,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/24/2024,positive,opened,desktop,no,no
+595,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/5/2024,neutral,unopened,desktop,yes,yes
+596,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/15/2024,neutral,opened,desktop,yes,yes
+597,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Training and Development,3/15/2024,neutral,opened,desktop,yes,yes
+598,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/13/2024,negative,opened,desktop,yes,yes
+599,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Project Updates,3/18/2024,neutral,opened,desktop,yes,yes
+600,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/15/2024,neutral,opened,mobile,yes,yes
+601,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/5/2024,negative,opened,desktop,no,yes
+602,Jeannie Moggan,Middle level management,Legal,Maurine Golding,Professional,Legal,Legal Matters,3/7/2024,neutral,opened,desktop,yes,yes
+603,Jeannie Moggan,Middle level management,Legal,Maurine Golding,Professional,Legal,Operational Issues,3/26/2024,neutral,opened,mobile,yes,yes
+604,Jeannie Moggan,Middle level management,Legal,Maurine Golding,Professional,Legal,Project Updates,3/27/2024,neutral,opened,mobile,yes,yes
+605,Jeannie Moggan,Middle level management,Legal,Maurine Golding,Professional,Legal,Legal Matters,3/11/2024,neutral,opened,desktop,yes,yes
+606,Jeannie Moggan,Middle level management,Legal,Maurine Golding,Professional,Legal,Legal Matters,3/15/2024,positive,opened,desktop,yes,yes
+607,Jeannie Moggan,Middle level management,Legal,Maurine Golding,Professional,Legal,Meeting Scheduling,3/21/2024,positive,opened,desktop,yes,yes
+608,Jeannie Moggan,Middle level management,Legal,Maurine Golding,Professional,Legal,Project Updates,3/27/2024,positive,opened,desktop,yes,yes
+609,Jeannie Moggan,Middle level management,Legal,Maurine Golding,Professional,Legal,Legal Matters,3/6/2024,neutral,opened,desktop,yes,yes
+610,Jeannie Moggan,Middle level management,Legal,Maurine Golding,Professional,Legal,Internal Policies and Procedures,3/22/2024,neutral,opened,desktop,yes,yes
+611,Jeannie Moggan,Middle level management,Legal,Maurine Golding,Professional,Legal,Project Updates,3/12/2024,neutral,opened,desktop,yes,yes
+612,Jeannie Moggan,Middle level management,Legal,Maurine Golding,Professional,Legal,Legal Matters,3/8/2024,positive,opened,mobile,yes,yes
+613,Jeannie Moggan,Middle level management,Legal,Maurine Golding,Professional,Legal,Legal Matters,3/27/2024,neutral,opened,desktop,yes,yes
+614,Jeannie Moggan,Middle level management,Legal,Maurine Golding,Professional,Legal,Vendor Relations,3/7/2024,positive,opened,desktop,yes,yes
+615,Maurine Golding,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Project Updates,3/25/2024,negative,opened,mobile,yes,yes
+616,Maurine Golding,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/7/2024,neutral,opened,desktop,yes,yes
+617,Maurine Golding,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Meeting Scheduling,3/24/2024,neutral,unopened,mobile,no,no
+618,Maurine Golding,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/29/2024,positive,opened,desktop,yes,yes
+619,Maurine Golding,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Meeting Scheduling,3/21/2024,neutral,opened,mobile,yes,yes
+620,Maurine Golding,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/21/2024,positive,opened,desktop,no,yes
+621,Maurine Golding,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/25/2024,neutral,opened,desktop,yes,yes
+622,Maurine Golding,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/13/2024,neutral,opened,desktop,yes,yes
+623,Maurine Golding,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Meeting Scheduling,3/27/2024,positive,opened,desktop,yes,yes
+624,Maurine Golding,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/4/2024,neutral,unopened,desktop,yes,yes
+625,Maurine Golding,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Operational Issues,3/29/2024,negative,opened,desktop,yes,yes
+626,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Legal Matters,3/24/2024,neutral,opened,desktop,no,no
+627,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Vendor Relations,3/5/2024,neutral,opened,mobile,yes,yes
+628,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Legal Matters,3/12/2024,positive,opened,desktop,yes,yes
+629,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Operational Issues,3/5/2024,neutral,opened,mobile,no,yes
+630,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Internal Policies and Procedures,3/27/2024,positive,opened,desktop,yes,yes
+631,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Meeting Scheduling,3/18/2024,neutral,opened,desktop,yes,yes
+632,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Legal Matters,3/27/2024,positive,opened,desktop,no,yes
+633,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Legal Matters,3/8/2024,neutral,unopened,desktop,yes,yes
+634,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Legal Matters,3/11/2024,negative,opened,desktop,yes,yes
+635,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Legal Matters,3/12/2024,neutral,opened,mobile,yes,yes
+636,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Legal Matters,3/27/2024,neutral,opened,desktop,yes,yes
+637,Jeannie Moggan,Middle level management,Legal,Faythe Vassel,Professional,Legal,Project Updates,3/13/2024,negative,unopened,desktop,yes,yes
+638,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Operational Issues,3/27/2024,positive,opened,desktop,no,yes
+639,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Operational Issues,3/28/2024,neutral,opened,desktop,yes,yes
+640,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/18/2024,positive,unopened,mobile,yes,yes
+641,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Project Updates,3/27/2024,positive,opened,desktop,yes,yes
+642,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/13/2024,neutral,opened,desktop,no,yes
+643,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Security Alerts,3/29/2024,neutral,opened,desktop,no,yes
+644,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Project Updates,3/28/2024,positive,opened,desktop,yes,yes
+645,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/27/2024,positive,opened,desktop,yes,yes
+646,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/28/2024,positive,opened,desktop,no,yes
+647,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Operational Issues,3/26/2024,positive,opened,desktop,yes,yes
+648,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Project Updates,3/11/2024,neutral,opened,desktop,no,yes
+649,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/27/2024,neutral,opened,desktop,yes,yes
+650,Faythe Vassel,Professional,Legal,Jeannie Moggan,Middle level management,Legal,Operational Issues,3/13/2024,neutral,opened,mobile,yes,yes
+651,Traci Habbal,Middle level management,Marketing,Roger Tabbernor,Professional,Marketing,HR related topics,3/14/2024,neutral,opened,desktop,yes,yes
+652,Traci Habbal,Middle level management,Marketing,Roger Tabbernor,Professional,Marketing,Sales and Marketing,3/19/2024,neutral,opened,desktop,no,yes
+653,Traci Habbal,Middle level management,Marketing,Roger Tabbernor,Professional,Marketing,Vendor Relations,3/30/2024,neutral,opened,desktop,no,no
+654,Traci Habbal,Middle level management,Marketing,Roger Tabbernor,Professional,Marketing,Vendor Relations,3/13/2024,neutral,opened,desktop,yes,yes
+655,Traci Habbal,Middle level management,Marketing,Roger Tabbernor,Professional,Marketing,Meeting Scheduling,3/5/2024,neutral,opened,mobile,no,yes
+656,Traci Habbal,Middle level management,Marketing,Roger Tabbernor,Professional,Marketing,Sales and Marketing,3/6/2024,neutral,opened,desktop,yes,yes
+657,Traci Habbal,Middle level management,Marketing,Roger Tabbernor,Professional,Marketing,Sales and Marketing,3/15/2024,neutral,opened,desktop,yes,yes
+658,Traci Habbal,Middle level management,Marketing,Lazarus O'Halleghane,Professional,Marketing,Project Updates,3/18/2024,neutral,opened,desktop,yes,yes
+659,Traci Habbal,Middle level management,Marketing,Lazarus O'Halleghane,Professional,Marketing,Legal Matters,3/26/2024,negative,opened,desktop,yes,yes
+660,Traci Habbal,Middle level management,Marketing,Lazarus O'Halleghane,Professional,Marketing,Project Updates,3/14/2024,positive,opened,desktop,yes,yes
+661,Traci Habbal,Middle level management,Marketing,Lazarus O'Halleghane,Professional,Marketing,Sales and Marketing,3/27/2024,neutral,opened,mobile,yes,yes
+662,Traci Habbal,Middle level management,Marketing,Lazarus O'Halleghane,Professional,Marketing,Sales and Marketing,3/28/2024,neutral,opened,desktop,yes,yes
+663,Traci Habbal,Middle level management,Marketing,Lazarus O'Halleghane,Professional,Marketing,Meeting Scheduling,3/24/2024,neutral,opened,desktop,no,no
+664,Traci Habbal,Middle level management,Marketing,Karine Barclay,Professional,Marketing,Vendor Relations,3/13/2024,negative,opened,desktop,yes,yes
+665,Traci Habbal,Middle level management,Marketing,Karine Barclay,Professional,Marketing,Sales and Marketing,3/15/2024,neutral,opened,desktop,no,yes
+666,Traci Habbal,Middle level management,Marketing,Karine Barclay,Professional,Marketing,Sales and Marketing,3/12/2024,positive,opened,mobile,yes,yes
+667,Traci Habbal,Middle level management,Marketing,Karine Barclay,Professional,Marketing,Operational Issues,3/11/2024,neutral,opened,desktop,yes,yes
+668,Traci Habbal,Middle level management,Marketing,Karine Barclay,Professional,Marketing,Sales and Marketing,3/20/2024,neutral,opened,mobile,yes,yes
+669,Traci Habbal,Middle level management,Marketing,Karine Barclay,Professional,Marketing,Sales and Marketing,3/14/2024,neutral,opened,mobile,yes,yes
+670,Traci Habbal,Middle level management,Marketing,Karine Barclay,Professional,Marketing,Legal Matters,3/22/2024,negative,opened,desktop,yes,yes
+671,Traci Habbal,Middle level management,Marketing,Karine Barclay,Professional,Marketing,Product Development,3/27/2024,neutral,opened,desktop,yes,yes
+672,Traci Habbal,Middle level management,Marketing,Karine Barclay,Professional,Marketing,Sales and Marketing,3/13/2024,neutral,opened,desktop,yes,yes
+673,Traci Habbal,Middle level management,Marketing,Petronille Jouen,Professional,Marketing,Vendor Relations,3/27/2024,neutral,opened,mobile,no,yes
+674,Traci Habbal,Middle level management,Marketing,Petronille Jouen,Professional,Marketing,Sales and Marketing,3/29/2024,positive,opened,desktop,yes,yes
+675,Traci Habbal,Middle level management,Marketing,Petronille Jouen,Professional,Marketing,Sales and Marketing,3/29/2024,neutral,unopened,desktop,yes,yes
+676,Traci Habbal,Middle level management,Marketing,Petronille Jouen,Professional,Marketing,Training and Development,3/11/2024,positive,opened,desktop,yes,yes
+677,Traci Habbal,Middle level management,Marketing,Petronille Jouen,Professional,Marketing,Meeting Scheduling,3/19/2024,neutral,unopened,mobile,yes,yes
+678,Traci Habbal,Middle level management,Marketing,Petronille Jouen,Professional,Marketing,Sales and Marketing,3/13/2024,neutral,opened,desktop,no,yes
+679,Traci Habbal,Middle level management,Marketing,Petronille Jouen,Professional,Marketing,Operational Issues,3/20/2024,negative,opened,desktop,yes,yes
+680,Traci Habbal,Middle level management,Marketing,Petronille Jouen,Professional,Marketing,Operational Issues,3/26/2024,negative,unopened,mobile,yes,yes
+681,Traci Habbal,Middle level management,Marketing,Petronille Jouen,Professional,Marketing,Meeting Scheduling,3/28/2024,neutral,opened,mobile,yes,yes
+682,Traci Habbal,Middle level management,Marketing,Petronille Jouen,Professional,Marketing,Meeting Scheduling,3/18/2024,positive,opened,mobile,yes,yes
+683,Traci Habbal,Middle level management,Marketing,Dorie Parradine,Professional,Marketing,Project Updates,3/24/2024,neutral,opened,desktop,no,no
+684,Traci Habbal,Middle level management,Marketing,Dorie Parradine,Professional,Marketing,Sales and Marketing,3/28/2024,negative,opened,desktop,yes,yes
+685,Traci Habbal,Middle level management,Marketing,Dorie Parradine,Professional,Marketing,Sales and Marketing,3/30/2024,neutral,opened,desktop,no,no
+686,Traci Habbal,Middle level management,Marketing,Dorie Parradine,Professional,Marketing,Sales and Marketing,3/2/2024,positive,opened,desktop,no,no
+687,Traci Habbal,Middle level management,Marketing,Dorie Parradine,Professional,Marketing,Vendor Relations,3/26/2024,positive,opened,desktop,yes,yes
+688,Traci Habbal,Middle level management,Marketing,Dorie Parradine,Professional,Marketing,Sales and Marketing,3/27/2024,neutral,opened,desktop,yes,yes
+689,Traci Habbal,Middle level management,Marketing,Dorie Parradine,Professional,Marketing,Internal Policies and Procedures,3/16/2024,neutral,opened,mobile,no,no
+690,Traci Habbal,Middle level management,Marketing,Dorie Parradine,Professional,Marketing,Sales and Marketing,3/29/2024,neutral,opened,desktop,no,yes
+691,Traci Habbal,Middle level management,Marketing,Dorie Parradine,Professional,Marketing,Internal Policies and Procedures,3/7/2024,neutral,opened,desktop,yes,yes
+692,Dorie Parradine,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/6/2024,neutral,opened,desktop,no,yes
+693,Dorie Parradine,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/15/2024,positive,opened,mobile,yes,yes
+694,Dorie Parradine,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/7/2024,neutral,opened,desktop,yes,yes
+695,Dorie Parradine,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Operational Issues,3/27/2024,positive,opened,mobile,yes,yes
+696,Dorie Parradine,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Project Updates,3/15/2024,positive,opened,mobile,yes,yes
+697,Dorie Parradine,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/12/2024,positive,opened,desktop,yes,yes
+698,Petronille Jouen,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Meeting Scheduling,3/29/2024,neutral,opened,mobile,yes,yes
+699,Petronille Jouen,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/22/2024,neutral,opened,mobile,yes,yes
+700,Petronille Jouen,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/26/2024,neutral,opened,desktop,yes,yes
+701,Karine Barclay,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Project Updates,3/2/2024,neutral,opened,desktop,no,no
+702,Karine Barclay,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Meeting Scheduling,3/29/2024,negative,opened,desktop,yes,yes
+703,Karine Barclay,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Meeting Scheduling,3/20/2024,neutral,opened,desktop,yes,yes
+704,Karine Barclay,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Meeting Scheduling,3/12/2024,positive,opened,desktop,no,yes
+705,Karine Barclay,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Meeting Scheduling,3/2/2024,neutral,opened,desktop,no,no
+706,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Operational Issues,3/14/2024,negative,opened,mobile,yes,yes
+707,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,HR related topics,3/19/2024,positive,opened,desktop,yes,yes
+708,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/25/2024,neutral,opened,desktop,yes,yes
+709,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/12/2024,positive,opened,mobile,yes,yes
+710,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Meeting Scheduling,3/11/2024,neutral,opened,desktop,no,yes
+711,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Operational Issues,3/26/2024,neutral,opened,mobile,yes,yes
+712,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/18/2024,neutral,opened,desktop,yes,yes
+713,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/5/2024,negative,opened,desktop,no,yes
+714,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Project Updates,3/5/2024,neutral,opened,desktop,no,yes
+715,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/11/2024,neutral,opened,desktop,no,yes
+716,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Security Alerts,3/21/2024,positive,unopened,desktop,yes,yes
+717,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Legal Matters,3/20/2024,neutral,opened,desktop,yes,yes
+718,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/6/2024,positive,opened,mobile,yes,yes
+719,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Meeting Scheduling,3/22/2024,positive,opened,mobile,yes,yes
+720,Lazarus O'Halleghane,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/18/2024,neutral,opened,desktop,yes,yes
+721,Roger Tabbernor,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Meeting Scheduling,3/14/2024,neutral,opened,desktop,yes,yes
+722,Roger Tabbernor,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/5/2024,neutral,opened,desktop,no,yes
+723,Roger Tabbernor,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/13/2024,neutral,opened,desktop,yes,yes
+724,Roger Tabbernor,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Operational Issues,3/7/2024,positive,unopened,mobile,yes,yes
+725,Roger Tabbernor,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Meeting Scheduling,3/29/2024,positive,opened,desktop,yes,yes
+726,Roger Tabbernor,Professional,Marketing,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/12/2024,neutral,opened,desktop,yes,yes
+727,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Sales and Marketing,3/1/2024,neutral,opened,mobile,yes,yes
+728,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Product Development,3/28/2024,neutral,opened,desktop,yes,yes
+729,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Sales and Marketing,3/24/2024,neutral,opened,mobile,no,no
+730,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Sales and Marketing,3/16/2024,neutral,opened,desktop,no,no
+731,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Sales and Marketing,3/18/2024,neutral,opened,desktop,yes,yes
+732,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Meeting Scheduling,3/28/2024,positive,opened,mobile,yes,yes
+733,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Security Alerts,3/19/2024,negative,opened,mobile,yes,yes
+734,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Technical Support,3/13/2024,negative,opened,desktop,yes,yes
+735,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Meeting Scheduling,3/11/2024,positive,opened,desktop,yes,yes
+736,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Operational Issues,3/20/2024,neutral,opened,desktop,yes,yes
+737,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Internal Policies and Procedures,3/20/2024,neutral,opened,desktop,yes,yes
+738,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Sales and Marketing,3/30/2024,negative,opened,mobile,no,no
+739,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Internal Policies and Procedures,3/13/2024,neutral,opened,desktop,yes,yes
+740,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Internal Policies and Procedures,3/22/2024,neutral,opened,desktop,yes,yes
+741,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Meeting Scheduling,3/14/2024,positive,opened,desktop,yes,yes
+742,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Vendor Relations,3/27/2024,negative,opened,mobile,yes,yes
+743,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Legal Matters,3/12/2024,neutral,opened,desktop,yes,yes
+744,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Sales and Marketing,3/12/2024,positive,unopened,desktop,yes,yes
+745,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Sales and Marketing,3/28/2024,neutral,opened,mobile,yes,yes
+746,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Legal Matters,3/12/2024,neutral,opened,desktop,yes,yes
+747,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Sales and Marketing,3/12/2024,neutral,opened,desktop,no,yes
+748,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Internal Policies and Procedures,3/13/2024,positive,opened,desktop,yes,yes
+749,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Project Updates,3/7/2024,neutral,opened,desktop,yes,yes
+750,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Sales and Marketing,3/12/2024,positive,opened,desktop,yes,yes
+751,Karine Barclay,Professional,Marketing,Petronille Jouen,Professional,Marketing,Project Updates,3/7/2024,neutral,opened,desktop,yes,yes
+752,Karine Barclay,Professional,Marketing,Petronille Jouen,Professional,Marketing,Sales and Marketing,3/20/2024,neutral,unopened,mobile,yes,yes
+753,Karine Barclay,Professional,Marketing,Petronille Jouen,Professional,Marketing,Vendor Relations,3/7/2024,positive,opened,desktop,no,yes
+754,Karine Barclay,Professional,Marketing,Petronille Jouen,Professional,Marketing,Sales and Marketing,3/7/2024,neutral,opened,desktop,yes,yes
+755,Petronille Jouen,Professional,Marketing,Karine Barclay,Professional,Marketing,Sales and Marketing,3/26/2024,positive,opened,desktop,yes,yes
+756,Petronille Jouen,Professional,Marketing,Karine Barclay,Professional,Marketing,Operational Issues,3/29/2024,negative,opened,desktop,yes,yes
+757,Petronille Jouen,Professional,Marketing,Karine Barclay,Professional,Marketing,Operational Issues,3/20/2024,positive,opened,desktop,yes,yes
+758,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Internal Policies and Procedures,3/28/2024,negative,opened,desktop,yes,yes
+759,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Training and Development,3/20/2024,negative,opened,desktop,yes,yes
+760,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Sales and Marketing,3/26/2024,neutral,opened,desktop,yes,yes
+761,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Meeting Scheduling,3/14/2024,neutral,opened,mobile,yes,yes
+762,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Internal Policies and Procedures,3/5/2024,neutral,opened,desktop,no,yes
+763,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Client Related Communication,3/27/2024,positive,opened,mobile,yes,yes
+764,Roger Tabbernor,Professional,Marketing,Lazarus O'Halleghane,Professional,Marketing,Sales and Marketing,3/5/2024,neutral,opened,desktop,yes,yes
+765,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Meeting Scheduling,3/22/2024,neutral,opened,desktop,yes,yes
+766,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Operational Issues,3/28/2024,positive,opened,desktop,yes,yes
+767,Lazarus O'Halleghane,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Sales and Marketing,3/5/2024,positive,opened,desktop,yes,yes
+768,Dorie Parradine,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Sales and Marketing,3/14/2024,neutral,opened,mobile,yes,yes
+769,Dorie Parradine,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Project Updates,3/29/2024,positive,opened,desktop,yes,yes
+770,Dorie Parradine,Professional,Marketing,Roger Tabbernor,Professional,Marketing,Legal Matters,3/6/2024,negative,opened,desktop,yes,yes
+771,Roger Tabbernor,Professional,Marketing,Dorie Parradine,Professional,Marketing,Sales and Marketing,3/22/2024,neutral,unopened,desktop,yes,yes
+772,Jorey Deguara,Middle level management,Product development,Rodrique Coulston,Professional,Product development,Legal Matters,3/14/2024,neutral,opened,desktop,yes,yes
+773,Jorey Deguara,Middle level management,Product development,Rodrique Coulston,Professional,Product development,Operational Issues,3/2/2024,neutral,opened,desktop,no,no
+774,Jorey Deguara,Middle level management,Product development,Rodrique Coulston,Professional,Product development,Product Development,3/6/2024,positive,opened,desktop,no,yes
+775,Jorey Deguara,Middle level management,Product development,Rodrique Coulston,Professional,Product development,Training and Development,3/5/2024,neutral,unopened,desktop,no,yes
+776,Jorey Deguara,Middle level management,Product development,Rodrique Coulston,Professional,Product development,Project Updates,3/1/2024,neutral,opened,desktop,yes,yes
+777,Jorey Deguara,Middle level management,Product development,Rodrique Coulston,Professional,Product development,Product Development,3/7/2024,neutral,opened,mobile,no,yes
+778,Jorey Deguara,Middle level management,Product development,Rodrique Coulston,Professional,Product development,Product Development,3/5/2024,neutral,opened,desktop,no,yes
+779,Rodrique Coulston,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/7/2024,positive,opened,mobile,no,yes
+780,Rodrique Coulston,Professional,Product development,Jorey Deguara,Middle level management,Product development,Training and Development,3/28/2024,neutral,opened,desktop,yes,yes
+781,Rodrique Coulston,Professional,Product development,Jorey Deguara,Middle level management,Product development,Internal Policies and Procedures,3/2/2024,neutral,opened,mobile,no,no
+782,Rodrique Coulston,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/6/2024,positive,unopened,mobile,yes,yes
+783,Rodrique Coulston,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/3/2024,negative,opened,desktop,no,no
+784,Jorey Deguara,Middle level management,Product development,Lisette Loweth,Professional,Product development,Project Updates,3/11/2024,neutral,opened,mobile,yes,yes
+785,Jorey Deguara,Middle level management,Product development,Lisette Loweth,Professional,Product development,Operational Issues,3/22/2024,neutral,opened,desktop,yes,yes
+786,Jorey Deguara,Middle level management,Product development,Lisette Loweth,Professional,Product development,Product Development,3/17/2024,neutral,opened,mobile,no,no
+787,Jorey Deguara,Middle level management,Product development,Lisette Loweth,Professional,Product development,Meeting Scheduling,3/14/2024,positive,opened,mobile,yes,yes
+788,Jorey Deguara,Middle level management,Product development,Lisette Loweth,Professional,Product development,Project Updates,3/13/2024,positive,opened,desktop,no,yes
+789,Jorey Deguara,Middle level management,Product development,Lisette Loweth,Professional,Product development,Product Development,3/15/2024,positive,opened,desktop,yes,yes
+790,Jorey Deguara,Middle level management,Product development,Lisette Loweth,Professional,Product development,Product Development,3/25/2024,neutral,opened,desktop,no,yes
+791,Jorey Deguara,Middle level management,Product development,Lisette Loweth,Professional,Product development,Product Development,3/7/2024,negative,unopened,desktop,yes,yes
+792,Jorey Deguara,Middle level management,Product development,Lisette Loweth,Professional,Product development,Project Updates,3/13/2024,positive,opened,desktop,yes,yes
+793,Lisette Loweth,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/28/2024,positive,opened,desktop,yes,yes
+794,Lisette Loweth,Professional,Product development,Jorey Deguara,Middle level management,Product development,Project Updates,3/30/2024,neutral,unopened,desktop,no,no
+795,Lisette Loweth,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/8/2024,negative,opened,desktop,yes,yes
+796,Lisette Loweth,Professional,Product development,Jorey Deguara,Middle level management,Product development,Operational Issues,3/7/2024,neutral,opened,desktop,yes,yes
+797,Lisette Loweth,Professional,Product development,Jorey Deguara,Middle level management,Product development,Sales and Marketing,3/13/2024,neutral,opened,desktop,yes,yes
+798,Lisette Loweth,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/3/2024,positive,opened,mobile,no,no
+799,Lisette Loweth,Professional,Product development,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/21/2024,neutral,opened,desktop,yes,yes
+800,Lisette Loweth,Professional,Product development,Jorey Deguara,Middle level management,Product development,Training and Development,3/14/2024,neutral,opened,desktop,yes,yes
+801,Jorey Deguara,Middle level management,Product development,Minette Southard,Professional,Product development,Product Development,3/7/2024,neutral,opened,desktop,yes,yes
+802,Jorey Deguara,Middle level management,Product development,Minette Southard,Professional,Product development,Product Development,3/14/2024,positive,opened,desktop,yes,yes
+803,Jorey Deguara,Middle level management,Product development,Minette Southard,Professional,Product development,Internal Policies and Procedures,3/8/2024,negative,opened,desktop,yes,yes
+804,Jorey Deguara,Middle level management,Product development,Minette Southard,Professional,Product development,Project Updates,3/28/2024,positive,opened,desktop,yes,yes
+805,Jorey Deguara,Middle level management,Product development,Minette Southard,Professional,Product development,HR related topics,3/22/2024,neutral,opened,desktop,yes,yes
+806,Jorey Deguara,Middle level management,Product development,Minette Southard,Professional,Product development,Operational Issues,3/20/2024,neutral,opened,desktop,yes,yes
+807,Jorey Deguara,Middle level management,Product development,Minette Southard,Professional,Product development,Product Development,3/5/2024,neutral,unopened,desktop,yes,yes
+808,Minette Southard,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/8/2024,positive,unopened,mobile,yes,yes
+809,Minette Southard,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/19/2024,neutral,opened,desktop,yes,yes
+810,Minette Southard,Professional,Product development,Jorey Deguara,Middle level management,Product development,Technical Support,3/14/2024,negative,opened,desktop,yes,yes
+811,Minette Southard,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/18/2024,negative,opened,desktop,yes,yes
+812,Minette Southard,Professional,Product development,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/30/2024,positive,opened,desktop,no,no
+813,Jorey Deguara,Middle level management,Product development,Theressa Tuddall,Professional,Product development,Training and Development,3/28/2024,neutral,opened,desktop,yes,yes
+814,Jorey Deguara,Middle level management,Product development,Theressa Tuddall,Professional,Product development,HR related topics,3/8/2024,neutral,opened,desktop,yes,yes
+815,Jorey Deguara,Middle level management,Product development,Theressa Tuddall,Professional,Product development,Project Updates,3/29/2024,neutral,opened,desktop,yes,yes
+816,Jorey Deguara,Middle level management,Product development,Theressa Tuddall,Professional,Product development,Project Updates,3/26/2024,negative,opened,desktop,yes,yes
+817,Jorey Deguara,Middle level management,Product development,Theressa Tuddall,Professional,Product development,Project Updates,3/12/2024,neutral,opened,desktop,yes,yes
+818,Jorey Deguara,Middle level management,Product development,Theressa Tuddall,Professional,Product development,Product Development,3/7/2024,neutral,opened,desktop,yes,yes
+819,Jorey Deguara,Middle level management,Product development,Theressa Tuddall,Professional,Product development,Internal Policies and Procedures,3/22/2024,positive,opened,mobile,yes,yes
+820,Jorey Deguara,Middle level management,Product development,Theressa Tuddall,Professional,Product development,Project Updates,3/18/2024,neutral,opened,desktop,yes,yes
+821,Theressa Tuddall,Professional,Product development,Jorey Deguara,Middle level management,Product development,Operational Issues,3/8/2024,neutral,opened,desktop,yes,yes
+822,Theressa Tuddall,Professional,Product development,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/27/2024,positive,opened,desktop,yes,yes
+823,Theressa Tuddall,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/13/2024,neutral,opened,mobile,yes,yes
+824,Jorey Deguara,Middle level management,Product development,Oran Benge,Professional,Product development,Product Development,3/27/2024,neutral,opened,desktop,yes,yes
+825,Jorey Deguara,Middle level management,Product development,Oran Benge,Professional,Product development,Product Development,3/7/2024,positive,opened,desktop,yes,yes
+826,Jorey Deguara,Middle level management,Product development,Oran Benge,Professional,Product development,Product Development,3/8/2024,neutral,opened,desktop,yes,yes
+827,Jorey Deguara,Middle level management,Product development,Oran Benge,Professional,Product development,HR related topics,3/15/2024,neutral,opened,desktop,yes,yes
+828,Jorey Deguara,Middle level management,Product development,Oran Benge,Professional,Product development,Product Development,3/22/2024,neutral,opened,desktop,no,yes
+829,Jorey Deguara,Middle level management,Product development,Oran Benge,Professional,Product development,Internal Policies and Procedures,3/21/2024,neutral,opened,mobile,yes,yes
+830,Jorey Deguara,Middle level management,Product development,Oran Benge,Professional,Product development,Product Development,3/29/2024,positive,opened,desktop,yes,yes
+831,Oran Benge,Professional,Product development,Jorey Deguara,Middle level management,Product development,Operational Issues,3/28/2024,neutral,opened,desktop,yes,yes
+832,Oran Benge,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/28/2024,positive,opened,desktop,yes,yes
+833,Oran Benge,Professional,Product development,Jorey Deguara,Middle level management,Product development,Operational Issues,3/14/2024,negative,opened,mobile,yes,yes
+834,Oran Benge,Professional,Product development,Jorey Deguara,Middle level management,Product development,Vendor Relations,3/27/2024,negative,opened,desktop,yes,yes
+835,Oran Benge,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/30/2024,positive,opened,desktop,no,no
+836,Oran Benge,Professional,Product development,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/13/2024,positive,opened,mobile,yes,yes
+837,Oran Benge,Professional,Product development,Jorey Deguara,Middle level management,Product development,Project Updates,3/28/2024,positive,opened,desktop,yes,yes
+838,Oran Benge,Professional,Product development,Jorey Deguara,Middle level management,Product development,Meeting Scheduling,3/1/2024,positive,unopened,desktop,no,yes
+839,Oran Benge,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/22/2024,neutral,unopened,mobile,yes,yes
+840,Jorey Deguara,Middle level management,Product development,Maggy Putson,Professional,Product development,Internal Policies and Procedures,3/6/2024,neutral,opened,desktop,yes,yes
+841,Jorey Deguara,Middle level management,Product development,Maggy Putson,Professional,Product development,Product Development,3/30/2024,positive,opened,desktop,no,no
+842,Jorey Deguara,Middle level management,Product development,Maggy Putson,Professional,Product development,Meeting Scheduling,3/27/2024,negative,opened,desktop,yes,yes
+843,Jorey Deguara,Middle level management,Product development,Maggy Putson,Professional,Product development,Project Updates,3/13/2024,neutral,opened,desktop,no,yes
+844,Jorey Deguara,Middle level management,Product development,Maggy Putson,Professional,Product development,Product Development,3/22/2024,positive,opened,mobile,yes,yes
+845,Jorey Deguara,Middle level management,Product development,Maggy Putson,Professional,Product development,Internal Policies and Procedures,3/20/2024,positive,opened,desktop,yes,yes
+846,Maggy Putson,Professional,Product development,Jorey Deguara,Middle level management,Product development,HR related topics,3/27/2024,neutral,opened,mobile,yes,yes
+847,Maggy Putson,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/27/2024,neutral,opened,desktop,yes,yes
+848,Maggy Putson,Professional,Product development,Jorey Deguara,Middle level management,Product development,Sales and Marketing,3/13/2024,neutral,opened,mobile,yes,yes
+849,Maggy Putson,Professional,Product development,Jorey Deguara,Middle level management,Product development,Legal Matters,3/6/2024,positive,opened,desktop,no,yes
+850,Maggy Putson,Professional,Product development,Jorey Deguara,Middle level management,Product development,Client Related Communication,3/8/2024,positive,opened,desktop,yes,yes
+851,Maggy Putson,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/14/2024,positive,unopened,mobile,no,yes
+852,Maggy Putson,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/6/2024,neutral,unopened,mobile,yes,yes
+853,Maggy Putson,Professional,Product development,Jorey Deguara,Middle level management,Product development,Operational Issues,3/13/2024,positive,opened,mobile,yes,yes
+854,Maggy Putson,Professional,Product development,Jorey Deguara,Middle level management,Product development,Operational Issues,3/15/2024,positive,opened,desktop,yes,yes
+855,Jorey Deguara,Middle level management,Product development,Barry Goundsy,Professional,Product development,Sales and Marketing,3/1/2024,neutral,unopened,desktop,yes,yes
+856,Jorey Deguara,Middle level management,Product development,Barry Goundsy,Professional,Product development,Product Development,3/14/2024,positive,opened,desktop,yes,yes
+857,Jorey Deguara,Middle level management,Product development,Barry Goundsy,Professional,Product development,Vendor Relations,3/12/2024,neutral,opened,desktop,yes,yes
+858,Jorey Deguara,Middle level management,Product development,Barry Goundsy,Professional,Product development,Product Development,3/26/2024,neutral,opened,desktop,yes,yes
+859,Jorey Deguara,Middle level management,Product development,Barry Goundsy,Professional,Product development,Project Updates,3/14/2024,positive,opened,desktop,yes,yes
+860,Barry Goundsy,Professional,Product development,Jorey Deguara,Middle level management,Product development,Internal Policies and Procedures,3/14/2024,positive,opened,desktop,yes,yes
+861,Barry Goundsy,Professional,Product development,Jorey Deguara,Middle level management,Product development,Training and Development,3/14/2024,neutral,opened,desktop,yes,yes
+862,Barry Goundsy,Professional,Product development,Jorey Deguara,Middle level management,Product development,Product Development,3/7/2024,positive,opened,mobile,yes,yes
+863,Rodrique Coulston,Professional,Product development,Lisette Loweth,Professional,Product development,Product Development,3/18/2024,negative,opened,mobile,yes,yes
+864,Rodrique Coulston,Professional,Product development,Lisette Loweth,Professional,Product development,Operational Issues,3/13/2024,neutral,opened,desktop,yes,yes
+865,Rodrique Coulston,Professional,Product development,Lisette Loweth,Professional,Product development,Project Updates,3/13/2024,neutral,opened,desktop,yes,yes
+866,Rodrique Coulston,Professional,Product development,Lisette Loweth,Professional,Product development,Legal Matters,3/14/2024,positive,opened,desktop,yes,yes
+867,Lisette Loweth,Professional,Product development,Rodrique Coulston,Professional,Product development,Sales and Marketing,3/13/2024,neutral,opened,desktop,yes,yes
+868,Rodrique Coulston,Professional,Product development,Minette Southard,Professional,Product development,Operational Issues,3/6/2024,neutral,opened,desktop,yes,yes
+869,Rodrique Coulston,Professional,Product development,Minette Southard,Professional,Product development,Meeting Scheduling,3/19/2024,neutral,opened,desktop,yes,yes
+870,Rodrique Coulston,Professional,Product development,Minette Southard,Professional,Product development,Training and Development,3/26/2024,neutral,opened,desktop,yes,yes
+871,Rodrique Coulston,Professional,Product development,Minette Southard,Professional,Product development,Meeting Scheduling,3/30/2024,neutral,opened,desktop,no,no
+872,Rodrique Coulston,Professional,Product development,Minette Southard,Professional,Product development,Project Updates,3/7/2024,neutral,opened,desktop,yes,yes
+873,Rodrique Coulston,Professional,Product development,Minette Southard,Professional,Product development,Sales and Marketing,3/14/2024,positive,opened,desktop,no,yes
+874,Rodrique Coulston,Professional,Product development,Minette Southard,Professional,Product development,Technical Support,3/13/2024,positive,opened,desktop,yes,yes
+875,Minette Southard,Professional,Product development,Rodrique Coulston,Professional,Product development,Product Development,3/8/2024,negative,opened,mobile,yes,yes
+876,Minette Southard,Professional,Product development,Rodrique Coulston,Professional,Product development,Meeting Scheduling,3/11/2024,positive,opened,desktop,yes,yes
+877,Minette Southard,Professional,Product development,Rodrique Coulston,Professional,Product development,Operational Issues,3/15/2024,negative,opened,desktop,yes,yes
+878,Minette Southard,Professional,Product development,Rodrique Coulston,Professional,Product development,Sales and Marketing,3/13/2024,neutral,opened,desktop,yes,yes
+879,Minette Southard,Professional,Product development,Rodrique Coulston,Professional,Product development,Legal Matters,3/20/2024,negative,opened,mobile,yes,yes
+880,Minette Southard,Professional,Product development,Rodrique Coulston,Professional,Product development,Product Development,3/14/2024,positive,opened,mobile,yes,yes
+881,Minette Southard,Professional,Product development,Rodrique Coulston,Professional,Product development,Project Updates,3/18/2024,neutral,opened,desktop,yes,yes
+882,Minette Southard,Professional,Product development,Rodrique Coulston,Professional,Product development,Meeting Scheduling,3/11/2024,neutral,opened,mobile,no,yes
+883,Theressa Tuddall,Professional,Product development,Maggy Putson,Professional,Product development,Project Updates,3/29/2024,neutral,opened,desktop,yes,yes
+884,Theressa Tuddall,Professional,Product development,Maggy Putson,Professional,Product development,Project Updates,3/7/2024,negative,unopened,desktop,yes,yes
+885,Theressa Tuddall,Professional,Product development,Maggy Putson,Professional,Product development,Product Development,3/25/2024,neutral,opened,desktop,no,yes
+886,Theressa Tuddall,Professional,Product development,Maggy Putson,Professional,Product development,Vendor Relations,3/27/2024,neutral,opened,desktop,yes,yes
+887,Theressa Tuddall,Professional,Product development,Maggy Putson,Professional,Product development,Technical Support,3/25/2024,neutral,opened,desktop,no,yes
+888,Maggy Putson,Professional,Product development,Barry Goundsy,Professional,Product development,Product Development,3/26/2024,neutral,opened,mobile,yes,yes
+889,Maggy Putson,Professional,Product development,Barry Goundsy,Professional,Product development,Product Development,3/20/2024,neutral,unopened,mobile,yes,yes
+890,Maggy Putson,Professional,Product development,Barry Goundsy,Professional,Product development,Project Updates,3/12/2024,positive,opened,desktop,no,yes
+891,Maggy Putson,Professional,Product development,Barry Goundsy,Professional,Product development,Product Development,3/30/2024,neutral,opened,desktop,no,no
+892,Maggy Putson,Professional,Product development,Barry Goundsy,Professional,Product development,Product Development,3/8/2024,positive,opened,desktop,yes,yes
+893,Maggy Putson,Professional,Product development,Theressa Tuddall,Professional,Product development,Product Development,3/13/2024,positive,opened,desktop,yes,yes
+894,Maggy Putson,Professional,Product development,Theressa Tuddall,Professional,Product development,Product Development,3/27/2024,neutral,opened,mobile,yes,yes
+895,Maggy Putson,Professional,Product development,Theressa Tuddall,Professional,Product development,Product Development,3/14/2024,positive,opened,mobile,yes,yes
+896,Barry Goundsy,Professional,Product development,Maggy Putson,Professional,Product development,Project Updates,3/14/2024,positive,unopened,mobile,no,yes
+897,Emmey Matoshin,Middle level management,Sales,Nelia Routledge,Professional,Sales,Training and Development,3/20/2024,positive,opened,mobile,yes,yes
+898,Emmey Matoshin,Middle level management,Sales,Nelia Routledge,Professional,Sales,Operational Issues,3/21/2024,negative,opened,desktop,yes,yes
+899,Emmey Matoshin,Middle level management,Sales,Nelia Routledge,Professional,Sales,Project Updates,3/13/2024,neutral,opened,desktop,yes,yes
+900,Emmey Matoshin,Middle level management,Sales,Nelia Routledge,Professional,Sales,Sales and Marketing,3/1/2024,neutral,opened,desktop,yes,yes
+901,Emmey Matoshin,Middle level management,Sales,Nelia Routledge,Professional,Sales,Internal Policies and Procedures,3/14/2024,positive,opened,desktop,yes,yes
+902,Emmey Matoshin,Middle level management,Sales,Nelia Routledge,Professional,Sales,Sales and Marketing,3/26/2024,neutral,opened,mobile,yes,yes
+903,Emmey Matoshin,Middle level management,Sales,Nelia Routledge,Professional,Sales,Training and Development,3/7/2024,neutral,opened,mobile,no,yes
+904,Nelia Routledge,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/15/2024,neutral,unopened,mobile,yes,yes
+905,Nelia Routledge,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/6/2024,neutral,opened,mobile,yes,yes
+906,Nelia Routledge,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/31/2024,positive,opened,mobile,no,no
+907,Emmey Matoshin,Middle level management,Sales,Ferdinande Stickels,Professional,Sales,Internal Policies and Procedures,3/29/2024,neutral,opened,mobile,yes,yes
+908,Emmey Matoshin,Middle level management,Sales,Ferdinande Stickels,Professional,Sales,Meeting Scheduling,3/14/2024,positive,opened,mobile,yes,yes
+909,Emmey Matoshin,Middle level management,Sales,Ferdinande Stickels,Professional,Sales,Sales and Marketing,3/5/2024,negative,opened,mobile,yes,yes
+910,Emmey Matoshin,Middle level management,Sales,Ferdinande Stickels,Professional,Sales,Sales and Marketing,3/28/2024,positive,opened,desktop,yes,yes
+911,Emmey Matoshin,Middle level management,Sales,Ferdinande Stickels,Professional,Sales,Internal Policies and Procedures,3/6/2024,neutral,opened,desktop,yes,yes
+912,Emmey Matoshin,Middle level management,Sales,Ferdinande Stickels,Professional,Sales,Sales and Marketing,3/13/2024,positive,opened,mobile,yes,yes
+913,Emmey Matoshin,Middle level management,Sales,Ferdinande Stickels,Professional,Sales,Sales and Marketing,3/6/2024,neutral,opened,desktop,yes,yes
+914,Ferdinande Stickels,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/13/2024,neutral,unopened,desktop,yes,yes
+915,Ferdinande Stickels,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/27/2024,positive,opened,desktop,yes,yes
+916,Ferdinande Stickels,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Operational Issues,3/29/2024,neutral,opened,desktop,yes,yes
+917,Ferdinande Stickels,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Project Updates,3/29/2024,neutral,opened,desktop,no,yes
+918,Ferdinande Stickels,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/29/2024,neutral,opened,desktop,yes,yes
+919,Ferdinande Stickels,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Legal Matters,3/26/2024,neutral,unopened,desktop,no,yes
+920,Emmey Matoshin,Middle level management,Sales,Tades Querrard,Professional,Sales,Internal Policies and Procedures,3/7/2024,positive,opened,desktop,yes,yes
+921,Emmey Matoshin,Middle level management,Sales,Tades Querrard,Professional,Sales,Sales and Marketing,3/27/2024,neutral,opened,desktop,yes,yes
+922,Emmey Matoshin,Middle level management,Sales,Tades Querrard,Professional,Sales,Operational Issues,3/13/2024,neutral,opened,desktop,yes,yes
+923,Emmey Matoshin,Middle level management,Sales,Tades Querrard,Professional,Sales,Legal Matters,3/11/2024,neutral,opened,mobile,yes,yes
+924,Tades Querrard,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/14/2024,positive,opened,desktop,no,yes
+925,Emmey Matoshin,Middle level management,Sales,Anatole Hansie,Professional,Sales,Legal Matters,3/26/2024,neutral,opened,mobile,yes,yes
+926,Emmey Matoshin,Middle level management,Sales,Anatole Hansie,Professional,Sales,Sales and Marketing,3/6/2024,neutral,unopened,desktop,yes,yes
+927,Emmey Matoshin,Middle level management,Sales,Anatole Hansie,Professional,Sales,Meeting Scheduling,3/7/2024,positive,opened,mobile,yes,yes
+928,Emmey Matoshin,Middle level management,Sales,Anatole Hansie,Professional,Sales,Sales and Marketing,3/8/2024,positive,opened,desktop,yes,yes
+929,Emmey Matoshin,Middle level management,Sales,Anatole Hansie,Professional,Sales,Meeting Scheduling,3/14/2024,neutral,opened,mobile,yes,yes
+930,Anatole Hansie,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/19/2024,neutral,opened,desktop,yes,yes
+931,Anatole Hansie,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Operational Issues,3/31/2024,neutral,opened,desktop,no,no
+932,Anatole Hansie,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Technical Support,3/29/2024,neutral,opened,mobile,yes,yes
+933,Emmey Matoshin,Middle level management,Sales,Chris Consadine,Professional,Sales,Vendor Relations,3/27/2024,neutral,opened,mobile,yes,yes
+934,Emmey Matoshin,Middle level management,Sales,Chris Consadine,Professional,Sales,Sales and Marketing,3/7/2024,positive,opened,mobile,yes,yes
+935,Emmey Matoshin,Middle level management,Sales,Chris Consadine,Professional,Sales,Meeting Scheduling,3/26/2024,positive,opened,mobile,yes,yes
+936,Emmey Matoshin,Middle level management,Sales,Chris Consadine,Professional,Sales,Sales and Marketing,3/14/2024,neutral,opened,desktop,yes,yes
+937,Emmey Matoshin,Middle level management,Sales,Chris Consadine,Professional,Sales,Legal Matters,3/14/2024,neutral,opened,desktop,no,yes
+938,Emmey Matoshin,Middle level management,Sales,Chris Consadine,Professional,Sales,Operational Issues,3/22/2024,neutral,opened,mobile,yes,yes
+939,Emmey Matoshin,Middle level management,Sales,Chris Consadine,Professional,Sales,Technical Support,3/27/2024,neutral,opened,mobile,no,yes
+940,Emmey Matoshin,Middle level management,Sales,Chris Consadine,Professional,Sales,Project Updates,3/21/2024,neutral,opened,desktop,yes,yes
+941,Emmey Matoshin,Middle level management,Sales,Chris Consadine,Professional,Sales,Meeting Scheduling,3/14/2024,negative,opened,desktop,yes,yes
+942,Chris Consadine,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Operational Issues,3/21/2024,positive,opened,desktop,yes,yes
+943,Chris Consadine,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Product Development,3/19/2024,positive,opened,desktop,yes,yes
+944,Chris Consadine,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/8/2024,neutral,opened,mobile,yes,yes
+945,Chris Consadine,Professional,Sales,Emmey Matoshin,Middle level management,Sales,HR related topics,3/25/2024,positive,opened,desktop,no,yes
+946,Chris Consadine,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/8/2024,neutral,opened,desktop,no,yes
+947,Emmey Matoshin,Middle level management,Sales,Grace Spracklin,Professional,Sales,Sales and Marketing,3/12/2024,positive,opened,desktop,yes,yes
+948,Emmey Matoshin,Middle level management,Sales,Grace Spracklin,Professional,Sales,Sales and Marketing,3/25/2024,negative,opened,mobile,yes,yes
+949,Emmey Matoshin,Middle level management,Sales,Grace Spracklin,Professional,Sales,Sales and Marketing,3/13/2024,positive,opened,desktop,yes,yes
+950,Emmey Matoshin,Middle level management,Sales,Grace Spracklin,Professional,Sales,Sales and Marketing,3/8/2024,positive,opened,desktop,yes,yes
+951,Emmey Matoshin,Middle level management,Sales,Grace Spracklin,Professional,Sales,Meeting Scheduling,3/11/2024,positive,opened,desktop,yes,yes
+952,Emmey Matoshin,Middle level management,Sales,Grace Spracklin,Professional,Sales,Legal Matters,3/19/2024,negative,opened,desktop,yes,yes
+953,Emmey Matoshin,Middle level management,Sales,Grace Spracklin,Professional,Sales,Sales and Marketing,3/12/2024,neutral,opened,mobile,yes,yes
+954,Grace Spracklin,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Sales and Marketing,3/13/2024,negative,opened,desktop,yes,yes
+955,Grace Spracklin,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Operational Issues,3/18/2024,positive,opened,desktop,yes,yes
+956,Emmey Matoshin,Middle level management,Sales,Sumner Blakeway,Professional,Sales,Operational Issues,3/1/2024,neutral,opened,desktop,yes,yes
+957,Emmey Matoshin,Middle level management,Sales,Sumner Blakeway,Professional,Sales,Internal Policies and Procedures,3/27/2024,negative,opened,desktop,yes,yes
+958,Emmey Matoshin,Middle level management,Sales,Sumner Blakeway,Professional,Sales,Sales and Marketing,3/8/2024,neutral,opened,desktop,yes,yes
+959,Emmey Matoshin,Middle level management,Sales,Sumner Blakeway,Professional,Sales,Project Updates,3/15/2024,neutral,unopened,desktop,yes,yes
+960,Emmey Matoshin,Middle level management,Sales,Sumner Blakeway,Professional,Sales,Training and Development,3/13/2024,neutral,opened,desktop,yes,yes
+961,Emmey Matoshin,Middle level management,Sales,Sumner Blakeway,Professional,Sales,Training and Development,3/27/2024,neutral,opened,desktop,yes,yes
+962,Sumner Blakeway,Professional,Sales,Emmey Matoshin,Middle level management,Sales,Operational Issues,3/8/2024,neutral,opened,mobile,yes,yes
+963,Nelia Routledge,Professional,Sales,Tades Querrard,Professional,Sales,Sales and Marketing,3/20/2024,neutral,opened,desktop,yes,yes
+964,Nelia Routledge,Professional,Sales,Tades Querrard,Professional,Sales,Project Updates,3/29/2024,positive,opened,mobile,yes,yes
+965,Nelia Routledge,Professional,Sales,Tades Querrard,Professional,Sales,Meeting Scheduling,3/8/2024,neutral,opened,desktop,yes,yes
+966,Nelia Routledge,Professional,Sales,Tades Querrard,Professional,Sales,Internal Policies and Procedures,3/15/2024,negative,opened,desktop,yes,yes
+967,Tades Querrard,Professional,Sales,Nelia Routledge,Professional,Sales,Sales and Marketing,3/14/2024,neutral,opened,desktop,yes,yes
+968,Tades Querrard,Professional,Sales,Nelia Routledge,Professional,Sales,Operational Issues,3/13/2024,positive,opened,desktop,yes,yes
+969,Tades Querrard,Professional,Sales,Nelia Routledge,Professional,Sales,Internal Policies and Procedures,3/13/2024,negative,opened,desktop,yes,yes
+970,Anatole Hansie,Professional,Sales,Ferdinande Stickels,Professional,Sales,HR related topics,3/18/2024,neutral,opened,mobile,yes,yes
+971,Anatole Hansie,Professional,Sales,Ferdinande Stickels,Professional,Sales,Sales and Marketing,3/26/2024,neutral,opened,desktop,yes,yes
+972,Anatole Hansie,Professional,Sales,Ferdinande Stickels,Professional,Sales,Sales and Marketing,3/14/2024,neutral,opened,desktop,yes,yes
+973,Anatole Hansie,Professional,Sales,Ferdinande Stickels,Professional,Sales,Project Updates,3/7/2024,neutral,opened,desktop,yes,yes
+974,Ferdinande Stickels,Professional,Sales,Anatole Hansie,Professional,Sales,Technical Support,3/28/2024,neutral,opened,desktop,yes,yes
+975,Chris Consadine,Professional,Sales,Grace Spracklin,Professional,Sales,Sales and Marketing,3/13/2024,positive,opened,desktop,yes,yes
+976,Chris Consadine,Professional,Sales,Grace Spracklin,Professional,Sales,Meeting Scheduling,3/5/2024,negative,opened,desktop,yes,yes
+977,Chris Consadine,Professional,Sales,Grace Spracklin,Professional,Sales,Training and Development,3/29/2024,positive,opened,mobile,yes,yes
+978,Chris Consadine,Professional,Sales,Grace Spracklin,Professional,Sales,Sales and Marketing,3/18/2024,neutral,opened,desktop,yes,yes
+979,Chris Consadine,Professional,Sales,Grace Spracklin,Professional,Sales,Operational Issues,3/28/2024,neutral,opened,desktop,yes,yes
+980,Grace Spracklin,Professional,Sales,Grace Spracklin,Professional,Sales,Operational Issues,3/14/2024,neutral,opened,desktop,yes,yes
+981,Grace Spracklin,Professional,Sales,Grace Spracklin,Professional,Sales,Security Alerts,3/22/2024,positive,opened,desktop,yes,yes
+982,Grace Spracklin,Professional,Sales,Grace Spracklin,Professional,Sales,Sales and Marketing,3/7/2024,positive,opened,desktop,no,yes
+983,Constancia Di Bartolomeo,C-level,Executive Management,Elsinore Waterland,Middle level management,Human Resources,HR related topics,3/27/2024,neutral,opened,desktop,yes,yes
+984,Constancia Di Bartolomeo,C-level,Executive Management,Petronilla Mapes,Professional,Human Resources,HR related topics,3/14/2024,neutral,opened,desktop,yes,yes
+985,Constancia Di Bartolomeo,C-level,Executive Management,Elbertine Dowe,Professional,Human Resources,HR related topics,3/8/2024,positive,opened,mobile,yes,yes
+986,Constancia Di Bartolomeo,C-level,Executive Management,Blithe Arnaudet,Middle level management,Finance and Accounting,Internal Policies and Procedures,3/12/2024,neutral,opened,mobile,yes,yes
+987,Constancia Di Bartolomeo,C-level,Executive Management,Ozzy Jeffries,Professional,Finance and Accounting,Legal Matters,3/21/2024,neutral,unopened,desktop,yes,yes
+988,Constancia Di Bartolomeo,C-level,Executive Management,Constantino FitzGilbert,Professional,Finance and Accounting,Vendor Relations,3/8/2024,negative,opened,desktop,no,yes
+989,Constancia Di Bartolomeo,C-level,Executive Management,Traci Habbal,Middle level management,Marketing,HR related topics,3/25/2024,positive,opened,mobile,yes,yes
+990,Constancia Di Bartolomeo,C-level,Executive Management,Roger Tabbernor,Professional,Marketing,Meeting Scheduling,3/14/2024,positive,opened,desktop,yes,yes
+991,Constancia Di Bartolomeo,C-level,Executive Management,Lazarus O'Halleghane,Professional,Marketing,Sales and Marketing,3/15/2024,positive,opened,desktop,yes,yes
+992,Constancia Di Bartolomeo,C-level,Executive Management,Karine Barclay,Professional,Marketing,Training and Development,3/8/2024,neutral,unopened,desktop,yes,yes
+993,Constancia Di Bartolomeo,C-level,Executive Management,Petronille Jouen,Professional,Marketing,Internal Policies and Procedures,3/15/2024,positive,opened,desktop,yes,yes
+994,Constancia Di Bartolomeo,C-level,Executive Management,Dorie Parradine,Professional,Marketing,Vendor Relations,3/18/2024,neutral,opened,desktop,yes,yes
+995,Constancia Di Bartolomeo,C-level,Executive Management,Emmey Matoshin,Middle level management,Sales,Internal Policies and Procedures,3/15/2024,positive,opened,desktop,yes,yes
+996,Constancia Di Bartolomeo,C-level,Executive Management,Nelia Routledge,Professional,Sales,Sales and Marketing,3/7/2024,positive,opened,desktop,no,yes
+997,Constancia Di Bartolomeo,C-level,Executive Management,Ferdinande Stickels,Professional,Sales,Project Updates,3/14/2024,positive,opened,mobile,yes,yes
+998,Constancia Di Bartolomeo,C-level,Executive Management,Tades Querrard,Professional,Sales,Vendor Relations,3/7/2024,positive,opened,desktop,yes,yes
+999,Constancia Di Bartolomeo,C-level,Executive Management,Anatole Hansie,Professional,Sales,Sales and Marketing,3/27/2024,neutral,opened,desktop,yes,yes
+1000,Constancia Di Bartolomeo,C-level,Executive Management,Chris Consadine,Professional,Sales,Sales and Marketing,3/29/2024,neutral,opened,desktop,yes,yes
+1001,Constancia Di Bartolomeo,C-level,Executive Management,Grace Spracklin,Professional,Sales,Sales and Marketing,3/8/2024,neutral,opened,desktop,no,yes
+1002,Constancia Di Bartolomeo,C-level,Executive Management,Sumner Blakeway,Professional,Sales,Meeting Scheduling,3/8/2024,positive,opened,mobile,yes,yes
+1003,Constancia Di Bartolomeo,C-level,Executive Management,Abigael Alred,Middle level management,Information Technology (IT),Meeting Scheduling,3/7/2024,neutral,unopened,desktop,yes,yes
+1004,Constancia Di Bartolomeo,C-level,Executive Management,Reina Trobey,Professional,Information Technology (IT),Meeting Scheduling,3/12/2024,neutral,opened,mobile,yes,yes
+1005,Constancia Di Bartolomeo,C-level,Executive Management,Madge Torrejon,Professional,Information Technology (IT),Training and Development,3/12/2024,positive,opened,mobile,yes,yes
+1006,Constancia Di Bartolomeo,C-level,Executive Management,Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/7/2024,neutral,opened,desktop,yes,yes
+1007,Constancia Di Bartolomeo,C-level,Executive Management,Katina Darter,Professional,Information Technology (IT),Technical Support,3/27/2024,negative,opened,desktop,yes,yes
+1008,Constancia Di Bartolomeo,C-level,Executive Management,Lynett Amy,Professional,Information Technology (IT),Security Alerts,3/8/2024,positive,opened,desktop,yes,yes
+1009,Constancia Di Bartolomeo,C-level,Executive Management,Mata McGifford,Middle level management,Customer Service,Meeting Scheduling,3/27/2024,neutral,opened,mobile,yes,yes
+1010,Constancia Di Bartolomeo,C-level,Executive Management,Mort De Benedictis,Professional,Customer Service,Internal Policies and Procedures,3/1/2024,neutral,opened,mobile,yes,yes
+1011,Constancia Di Bartolomeo,C-level,Executive Management,Tamara Brewitt,Professional,Customer Service,Client Related Communication,3/1/2024,neutral,opened,desktop,yes,yes
+1012,Constancia Di Bartolomeo,C-level,Executive Management,Edithe Cinnamond,Professional,Customer Service,Training and Development,3/12/2024,neutral,unopened,desktop,yes,yes
+1013,Constancia Di Bartolomeo,C-level,Executive Management,Morly Finey,Professional,Customer Service,Operational Issues,3/6/2024,negative,opened,desktop,yes,yes
+1014,Constancia Di Bartolomeo,C-level,Executive Management,Angie Penticost,Professional,Customer Service,Client Related Communication,3/18/2024,positive,opened,desktop,yes,yes
+1015,Constancia Di Bartolomeo,C-level,Executive Management,Maribelle Oliver,Professional,Customer Service,Internal Policies and Procedures,3/1/2024,neutral,opened,desktop,no,yes
+1016,Constancia Di Bartolomeo,C-level,Executive Management,Jeannie Moggan,Middle level management,Legal,Legal Matters,3/28/2024,neutral,opened,desktop,yes,yes
+1017,Constancia Di Bartolomeo,C-level,Executive Management,Faythe Vassel,Professional,Legal,Legal Matters,3/29/2024,neutral,opened,desktop,no,yes
+1018,Constancia Di Bartolomeo,C-level,Executive Management,Maurine Golding,Professional,Legal,Product Development,3/14/2024,negative,opened,desktop,yes,yes
+1019,Constancia Di Bartolomeo,C-level,Executive Management,Jorey Deguara,Middle level management,Product development,Internal Policies and Procedures,3/31/2024,neutral,opened,desktop,no,no
+1020,Constancia Di Bartolomeo,C-level,Executive Management,Rodrique Coulston,Professional,Product development,Internal Policies and Procedures,3/11/2024,neutral,opened,desktop,yes,yes
+1021,Constancia Di Bartolomeo,C-level,Executive Management,Lisette Loweth,Professional,Product development,Product Development,3/7/2024,neutral,opened,desktop,yes,yes
+1022,Constancia Di Bartolomeo,C-level,Executive Management,Minette Southard,Professional,Product development,Sales and Marketing,3/13/2024,positive,opened,mobile,yes,yes
+1023,Constancia Di Bartolomeo,C-level,Executive Management,Theressa Tuddall,Professional,Product development,Product Development,3/27/2024,negative,unopened,mobile,yes,yes
+1024,Constancia Di Bartolomeo,C-level,Executive Management,Oran Benge,Professional,Product development,Sales and Marketing,3/13/2024,positive,opened,desktop,yes,yes
+1025,Constancia Di Bartolomeo,C-level,Executive Management,Maggy Putson,Professional,Product development,Operational Issues,3/18/2024,neutral,unopened,desktop,yes,yes
+1026,Constancia Di Bartolomeo,C-level,Executive Management,Barry Goundsy,Professional,Product development,HR related topics,3/13/2024,neutral,opened,desktop,no,yes
+1027,Petronilla Mapes,Professional,Human Resources,Reina Trobey,Professional,Information Technology (IT),Technical Support,3/7/2024,positive,opened,desktop,yes,yes
+1028,Elbertine Dowe,Professional,Human Resources,Reina Trobey,Professional,Information Technology (IT),Technical Support,3/14/2024,neutral,opened,desktop,yes,yes
+1029,Ozzy Jeffries,Professional,Finance and Accounting,Reina Trobey,Professional,Information Technology (IT),Technical Support,3/11/2024,neutral,opened,mobile,yes,yes
+1030,Constantino FitzGilbert,Professional,Finance and Accounting,Reina Trobey,Professional,Information Technology (IT),Technical Support,3/21/2024,positive,opened,desktop,yes,yes
+1031,Lazarus O'Halleghane,Professional,Marketing,Reina Trobey,Professional,Information Technology (IT),Technical Support,3/18/2024,positive,opened,mobile,no,yes
+1032,Karine Barclay,Professional,Marketing,Reina Trobey,Professional,Information Technology (IT),Operational Issues,3/18/2024,neutral,opened,desktop,yes,yes
+1033,Nelia Routledge,Professional,Sales,Reina Trobey,Professional,Information Technology (IT),Project Updates,3/18/2024,neutral,unopened,desktop,yes,yes
+1034,Ferdinande Stickels,Professional,Sales,Reina Trobey,Professional,Information Technology (IT),Meeting Scheduling,3/21/2024,neutral,opened,desktop,yes,yes
+1035,Tades Querrard,Professional,Sales,Reina Trobey,Professional,Information Technology (IT),Technical Support,3/14/2024,neutral,opened,desktop,yes,yes
+1036,Mata McGifford,Middle level management,Customer Service,Reina Trobey,Professional,Information Technology (IT),Training and Development,3/1/2024,positive,opened,desktop,yes,yes
+1037,Mort De Benedictis,Professional,Customer Service,Reina Trobey,Professional,Information Technology (IT),Project Updates,3/13/2024,negative,opened,desktop,yes,yes
+1038,Tamara Brewitt,Professional,Customer Service,Reina Trobey,Professional,Information Technology (IT),Meeting Scheduling,3/1/2024,neutral,opened,mobile,yes,yes
+1039,Edithe Cinnamond,Professional,Customer Service,Reina Trobey,Professional,Information Technology (IT),Technical Support,3/29/2024,neutral,opened,desktop,yes,yes
+1040,Morly Finey,Professional,Customer Service,Reina Trobey,Professional,Information Technology (IT),Technical Support,3/22/2024,positive,opened,desktop,yes,yes
+1041,Angie Penticost,Professional,Customer Service,Reina Trobey,Professional,Information Technology (IT),Technical Support,3/29/2024,neutral,opened,mobile,yes,yes
+1042,Maribelle Oliver,Professional,Customer Service,Reina Trobey,Professional,Information Technology (IT),Technical Support,3/25/2024,neutral,opened,desktop,yes,yes
+1043,Rodrique Coulston,Professional,Product development,Reina Trobey,Professional,Information Technology (IT),Technical Support,3/14/2024,neutral,opened,desktop,yes,yes
+1044,Lisette Loweth,Professional,Product development,Reina Trobey,Professional,Information Technology (IT),Operational Issues,3/5/2024,positive,opened,desktop,yes,yes
+1045,Jeannie Moggan,Middle level management,Legal,Reina Trobey,Professional,Information Technology (IT),Technical Support,3/14/2024,neutral,opened,desktop,yes,yes
+1046,Faythe Vassel,Professional,Legal,Marilyn Seeman,Professional,Information Technology (IT),Project Updates,3/28/2024,neutral,opened,mobile,yes,yes
+1047,Maurine Golding,Professional,Legal,Marilyn Seeman,Professional,Information Technology (IT),Operational Issues,3/7/2024,positive,opened,desktop,yes,yes
+1048,Maurine Golding,Professional,Legal,Marilyn Seeman,Professional,Information Technology (IT),Legal Matters,3/26/2024,neutral,opened,desktop,yes,yes
+1049,Maurine Golding,Professional,Legal,Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/2/2024,neutral,opened,desktop,no,no
+1050,Maurine Golding,Professional,Legal,Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/14/2024,positive,opened,desktop,yes,yes
+1051,Mort De Benedictis,Professional,Customer Service,Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/21/2024,neutral,opened,desktop,no,yes
+1052,Tamara Brewitt,Professional,Customer Service,Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/13/2024,neutral,opened,desktop,yes,yes
+1053,Edithe Cinnamond,Professional,Customer Service,Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/12/2024,neutral,opened,desktop,yes,yes
+1054,Morly Finey,Professional,Customer Service,Marilyn Seeman,Professional,Information Technology (IT),Internal Policies and Procedures,3/31/2024,neutral,opened,desktop,no,no
+1055,Tades Querrard,Professional,Sales,Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/26/2024,neutral,unopened,desktop,yes,yes
+1056,Anatole Hansie,Professional,Sales,Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/27/2024,neutral,opened,desktop,yes,yes
+1057,Chris Consadine,Professional,Sales,Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/13/2024,neutral,opened,desktop,no,yes
+1058,Karine Barclay,Professional,Marketing,Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/13/2024,neutral,opened,desktop,yes,yes
+1059,Petronille Jouen,Professional,Marketing,Marilyn Seeman,Professional,Information Technology (IT),Operational Issues,3/14/2024,neutral,opened,desktop,yes,yes
+1060,Dorie Parradine,Professional,Marketing,Marilyn Seeman,Professional,Information Technology (IT),Technical Support,3/31/2024,neutral,opened,desktop,no,no
+1061,Marilyn Seeman,Professional,Information Technology (IT),Faythe Vassel,Professional,Legal,Legal Matters,3/8/2024,neutral,opened,mobile,yes,yes
+1062,Marilyn Seeman,Professional,Information Technology (IT),Maurine Golding,Professional,Legal,Legal Matters,3/8/2024,neutral,opened,mobile,yes,yes
+1063,Marilyn Seeman,Professional,Information Technology (IT),Maurine Golding,Professional,Legal,Technical Support,3/27/2024,positive,opened,desktop,yes,yes
+1064,Marilyn Seeman,Professional,Information Technology (IT),Maurine Golding,Professional,Legal,Technical Support,3/26/2024,positive,opened,desktop,yes,yes
+1065,Marilyn Seeman,Professional,Information Technology (IT),Maurine Golding,Professional,Legal,Legal Matters,3/14/2024,neutral,opened,desktop,yes,yes
+1066,Marilyn Seeman,Professional,Information Technology (IT),Mort De Benedictis,Professional,Customer Service,Training and Development,3/27/2024,neutral,opened,desktop,yes,yes
+1067,Marilyn Seeman,Professional,Information Technology (IT),Tamara Brewitt,Professional,Customer Service,Security Alerts,3/29/2024,positive,opened,desktop,yes,yes
+1068,Marilyn Seeman,Professional,Information Technology (IT),Edithe Cinnamond,Professional,Customer Service,Technical Support,3/5/2024,neutral,opened,mobile,yes,yes
+1069,Marilyn Seeman,Professional,Information Technology (IT),Morly Finey,Professional,Customer Service,Meeting Scheduling,3/14/2024,neutral,opened,desktop,yes,yes
+1070,Marilyn Seeman,Professional,Information Technology (IT),Tades Querrard,Professional,Sales,Technical Support,3/31/2024,neutral,opened,desktop,no,no
+1071,Marilyn Seeman,Professional,Information Technology (IT),Anatole Hansie,Professional,Sales,Internal Policies and Procedures,3/1/2024,negative,opened,desktop,yes,yes
+1072,Marilyn Seeman,Professional,Information Technology (IT),Chris Consadine,Professional,Sales,Technical Support,3/2/2024,positive,opened,desktop,no,no
+1073,Marilyn Seeman,Professional,Information Technology (IT),Karine Barclay,Professional,Marketing,Technical Support,3/20/2024,positive,opened,desktop,yes,yes
+1074,Marilyn Seeman,Professional,Information Technology (IT),Petronille Jouen,Professional,Marketing,Technical Support,3/28/2024,neutral,opened,desktop,yes,yes
+1075,Marilyn Seeman,Professional,Information Technology (IT),Dorie Parradine,Professional,Marketing,Technical Support,3/25/2024,positive,opened,desktop,yes,yes
+1076,Reina Trobey,Professional,Information Technology (IT),Petronilla Mapes,Professional,Human Resources,HR related topics,3/8/2024,neutral,unopened,desktop,yes,yes
+1077,Reina Trobey,Professional,Information Technology (IT),Elbertine Dowe,Professional,Human Resources,Internal Policies and Procedures,3/28/2024,neutral,opened,mobile,yes,yes
+1078,Reina Trobey,Professional,Information Technology (IT),Ozzy Jeffries,Professional,Finance and Accounting,Project Updates,3/6/2024,neutral,opened,desktop,yes,yes
+1079,Reina Trobey,Professional,Information Technology (IT),Constantino FitzGilbert,Professional,Finance and Accounting,Technical Support,3/15/2024,neutral,opened,desktop,yes,yes
+1080,Reina Trobey,Professional,Information Technology (IT),Lazarus O'Halleghane,Professional,Marketing,Meeting Scheduling,3/27/2024,neutral,opened,desktop,yes,yes
+1081,Reina Trobey,Professional,Information Technology (IT),Karine Barclay,Professional,Marketing,Technical Support,3/14/2024,neutral,opened,desktop,yes,yes
+1082,Reina Trobey,Professional,Information Technology (IT),Nelia Routledge,Professional,Sales,Internal Policies and Procedures,3/1/2024,positive,opened,mobile,yes,yes
+1083,Reina Trobey,Professional,Information Technology (IT),Ferdinande Stickels,Professional,Sales,Training and Development,3/7/2024,positive,opened,desktop,no,yes
+1084,Reina Trobey,Professional,Information Technology (IT),Tades Querrard,Professional,Sales,Meeting Scheduling,3/14/2024,neutral,opened,desktop,yes,yes
+1085,Reina Trobey,Professional,Information Technology (IT),Mata McGifford,Middle level management,Customer Service,Operational Issues,3/14/2024,neutral,opened,desktop,yes,yes
+1086,Reina Trobey,Professional,Information Technology (IT),Mort De Benedictis,Professional,Customer Service,Technical Support,3/31/2024,neutral,unopened,desktop,no,no
+1087,Reina Trobey,Professional,Information Technology (IT),Tamara Brewitt,Professional,Customer Service,Technical Support,3/6/2024,neutral,opened,desktop,yes,yes
+1088,Reina Trobey,Professional,Information Technology (IT),Edithe Cinnamond,Professional,Customer Service,Training and Development,3/6/2024,neutral,opened,desktop,yes,yes
+1089,Reina Trobey,Professional,Information Technology (IT),Morly Finey,Professional,Customer Service,Technical Support,3/6/2024,negative,opened,mobile,yes,yes
+1090,Reina Trobey,Professional,Information Technology (IT),Angie Penticost,Professional,Customer Service,Technical Support,3/20/2024,positive,opened,desktop,yes,yes
+1091,Reina Trobey,Professional,Information Technology (IT),Maribelle Oliver,Professional,Customer Service,HR related topics,3/15/2024,positive,opened,desktop,yes,yes
+1092,Reina Trobey,Professional,Information Technology (IT),Rodrique Coulston,Professional,Product development,Technical Support,3/18/2024,neutral,opened,desktop,no,yes
+1093,Reina Trobey,Professional,Information Technology (IT),Lisette Loweth,Professional,Product development,Technical Support,3/20/2024,positive,opened,desktop,yes,yes
+1094,Reina Trobey,Professional,Information Technology (IT),Jeannie Moggan,Middle level management,Legal,Technical Support,3/25/2024,neutral,unopened,desktop,yes,yes
+1095,Traci Habbal,Middle level management,Marketing,Emmey Matoshin,Middle level management,Sales,Operational Issues,3/15/2024,neutral,opened,desktop,yes,yes
+1096,Traci Habbal,Middle level management,Marketing,Emmey Matoshin,Middle level management,Sales,Product Development,3/28/2024,positive,opened,desktop,yes,yes
+1097,Traci Habbal,Middle level management,Marketing,Emmey Matoshin,Middle level management,Sales,Project Updates,3/15/2024,positive,opened,desktop,yes,yes
+1098,Traci Habbal,Middle level management,Marketing,Emmey Matoshin,Middle level management,Sales,Operational Issues,3/8/2024,neutral,opened,desktop,yes,yes
+1099,Traci Habbal,Middle level management,Marketing,Emmey Matoshin,Middle level management,Sales,Project Updates,3/25/2024,positive,opened,desktop,yes,yes
+1100,Traci Habbal,Middle level management,Marketing,Emmey Matoshin,Middle level management,Sales,Technical Support,3/18/2024,negative,opened,desktop,yes,yes
+1101,Traci Habbal,Middle level management,Marketing,Emmey Matoshin,Middle level management,Sales,Meeting Scheduling,3/29/2024,positive,opened,mobile,yes,yes
+1102,Traci Habbal,Middle level management,Marketing,Emmey Matoshin,Middle level management,Sales,Project Updates,3/14/2024,neutral,opened,mobile,yes,yes
+1103,Traci Habbal,Middle level management,Marketing,Emmey Matoshin,Middle level management,Sales,Project Updates,3/11/2024,neutral,opened,mobile,yes,yes
+1104,Traci Habbal,Middle level management,Marketing,Emmey Matoshin,Middle level management,Sales,Meeting Scheduling,3/12/2024,neutral,unopened,desktop,yes,yes
+1105,Traci Habbal,Middle level management,Marketing,Emmey Matoshin,Middle level management,Sales,Client Related Communication,3/28/2024,neutral,opened,mobile,yes,yes
+1106,Emmey Matoshin,Middle level management,Sales,Traci Habbal,Middle level management,Marketing,Project Updates,3/14/2024,positive,unopened,desktop,yes,yes
+1107,Emmey Matoshin,Middle level management,Sales,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/6/2024,positive,opened,desktop,yes,yes
+1108,Emmey Matoshin,Middle level management,Sales,Traci Habbal,Middle level management,Marketing,Internal Policies and Procedures,3/25/2024,neutral,opened,desktop,yes,yes
+1109,Emmey Matoshin,Middle level management,Sales,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/25/2024,neutral,opened,desktop,yes,yes
+1110,Emmey Matoshin,Middle level management,Sales,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/21/2024,neutral,opened,desktop,yes,yes
+1111,Emmey Matoshin,Middle level management,Sales,Traci Habbal,Middle level management,Marketing,Sales and Marketing,3/15/2024,negative,opened,desktop,yes,yes
+1112,Emmey Matoshin,Middle level management,Sales,Traci Habbal,Middle level management,Marketing,Meeting Scheduling,3/25/2024,neutral,opened,desktop,no,yes
+1113,Karine Barclay,Professional,Marketing,Rodrique Coulston,Professional,Product development,Meeting Scheduling,3/15/2024,neutral,opened,desktop,no,yes
+1114,Karine Barclay,Professional,Marketing,Rodrique Coulston,Professional,Product development,Product Development,3/29/2024,neutral,opened,desktop,yes,yes
+1115,Karine Barclay,Professional,Marketing,Rodrique Coulston,Professional,Product development,Sales and Marketing,3/31/2024,positive,opened,desktop,no,no
+1116,Karine Barclay,Professional,Marketing,Rodrique Coulston,Professional,Product development,Project Updates,3/22/2024,positive,opened,desktop,yes,yes
+1117,Karine Barclay,Professional,Marketing,Rodrique Coulston,Professional,Product development,Product Development,3/15/2024,neutral,unopened,desktop,yes,yes
+1118,Rodrique Coulston,Professional,Product development,Karine Barclay,Professional,Marketing,Project Updates,3/7/2024,neutral,opened,desktop,yes,yes
+1119,Rodrique Coulston,Professional,Product development,Karine Barclay,Professional,Marketing,Operational Issues,3/15/2024,positive,opened,desktop,yes,yes
+1120,Rodrique Coulston,Professional,Product development,Karine Barclay,Professional,Marketing,Project Updates,3/29/2024,neutral,opened,mobile,yes,yes
+1121,Petronille Jouen,Professional,Marketing,Oran Benge,Professional,Product development,Sales and Marketing,3/7/2024,neutral,unopened,desktop,yes,yes
+1122,Petronille Jouen,Professional,Marketing,Oran Benge,Professional,Product development,Product Development,3/20/2024,neutral,opened,desktop,yes,yes
+1123,Petronille Jouen,Professional,Marketing,Oran Benge,Professional,Product development,Operational Issues,3/1/2024,neutral,opened,desktop,yes,yes
+1124,Petronille Jouen,Professional,Marketing,Oran Benge,Professional,Product development,Sales and Marketing,3/6/2024,neutral,opened,desktop,yes,yes
+1125,Oran Benge,Professional,Product development,Petronille Jouen,Professional,Marketing,Technical Support,3/20/2024,neutral,opened,desktop,yes,yes
+1126,Oran Benge,Professional,Product development,Petronille Jouen,Professional,Marketing,Technical Support,3/31/2024,positive,opened,desktop,no,no
+1127,Oran Benge,Professional,Product development,Petronille Jouen,Professional,Marketing,Operational Issues,3/25/2024,neutral,opened,desktop,yes,yes
+1128,Emmey Matoshin,Middle level management,Sales,Faythe Vassel,Professional,Legal,Legal Matters,3/28/2024,positive,opened,desktop,yes,yes
+1129,Nelia Routledge,Professional,Sales,Faythe Vassel,Professional,Legal,Operational Issues,3/15/2024,neutral,opened,desktop,yes,yes
+1130,Ferdinande Stickels,Professional,Sales,Faythe Vassel,Professional,Legal,Project Updates,3/18/2024,positive,opened,mobile,yes,yes
+1131,Tades Querrard,Professional,Sales,Faythe Vassel,Professional,Legal,Legal Matters,3/18/2024,negative,opened,mobile,yes,yes
+1132,Anatole Hansie,Professional,Sales,Faythe Vassel,Professional,Legal,Legal Matters,3/15/2024,neutral,opened,mobile,yes,yes
+1133,Chris Consadine,Professional,Sales,Maurine Golding,Professional,Legal,Legal Matters,3/29/2024,neutral,unopened,desktop,yes,yes
+1134,Grace Spracklin,Professional,Sales,Maurine Golding,Professional,Legal,Operational Issues,3/14/2024,positive,opened,mobile,yes,yes
+1135,Sumner Blakeway,Professional,Sales,Maurine Golding,Professional,Legal,Meeting Scheduling,3/27/2024,positive,opened,desktop,no,yes
+1136,Emmey Matoshin,Middle level management,Sales,Faythe Vassel,Professional,Legal,Legal Matters,3/28/2024,neutral,opened,desktop,yes,yes
+1137,Nelia Routledge,Professional,Sales,Faythe Vassel,Professional,Legal,Legal Matters,3/15/2024,neutral,opened,desktop,yes,yes
+1138,Ferdinande Stickels,Professional,Sales,Faythe Vassel,Professional,Legal,Legal Matters,3/28/2024,neutral,opened,desktop,yes,yes
+1139,Tades Querrard,Professional,Sales,Faythe Vassel,Professional,Legal,Internal Policies and Procedures,3/18/2024,positive,opened,desktop,yes,yes
+1140,Anatole Hansie,Professional,Sales,Faythe Vassel,Professional,Legal,Operational Issues,3/15/2024,positive,opened,desktop,yes,yes
+1141,Chris Consadine,Professional,Sales,Maurine Golding,Professional,Legal,Legal Matters,3/14/2024,positive,opened,desktop,yes,yes
+1142,Grace Spracklin,Professional,Sales,Maurine Golding,Professional,Legal,Legal Matters,3/29/2024,negative,unopened,desktop,yes,yes
+1143,Sumner Blakeway,Professional,Sales,Maurine Golding,Professional,Legal,Meeting Scheduling,3/18/2024,neutral,opened,desktop,yes,yes
+1144,Emmey Matoshin,Middle level management,Sales,Maurine Golding,Professional,Legal,Vendor Relations,3/25/2024,neutral,opened,desktop,yes,yes
+1145,Nelia Routledge,Professional,Sales,Maurine Golding,Professional,Legal,Legal Matters,3/28/2024,negative,opened,mobile,no,yes
+1146,Ferdinande Stickels,Professional,Sales,Maurine Golding,Professional,Legal,Meeting Scheduling,3/6/2024,positive,opened,mobile,yes,yes
+1147,Tades Querrard,Professional,Sales,Maurine Golding,Professional,Legal,Legal Matters,3/18/2024,neutral,opened,desktop,yes,yes
+1148,Anatole Hansie,Professional,Sales,Maurine Golding,Professional,Legal,Internal Policies and Procedures,3/29/2024,positive,opened,desktop,yes,yes
+1149,Chris Consadine,Professional,Sales,Maurine Golding,Professional,Legal,Legal Matters,3/15/2024,neutral,opened,desktop,yes,yes
+1150,Grace Spracklin,Professional,Sales,Maurine Golding,Professional,Legal,Operational Issues,3/29/2024,neutral,opened,desktop,yes,yes
+1151,Sumner Blakeway,Professional,Sales,Maurine Golding,Professional,Legal,Legal Matters,3/2/2024,neutral,opened,desktop,no,no
+1152,Maurine Golding,Professional,Legal,Emmey Matoshin,Middle level management,Sales,Legal Matters,3/14/2024,positive,opened,desktop,yes,yes
+1153,Maurine Golding,Professional,Legal,Nelia Routledge,Professional,Sales,Legal Matters,3/28/2024,neutral,opened,desktop,yes,yes
+1154,Maurine Golding,Professional,Legal,Ferdinande Stickels,Professional,Sales,Legal Matters,3/6/2024,neutral,opened,mobile,no,yes
+1155,Maurine Golding,Professional,Legal,Tades Querrard,Professional,Sales,Meeting Scheduling,3/22/2024,neutral,opened,mobile,yes,yes
+1156,Maurine Golding,Professional,Legal,Anatole Hansie,Professional,Sales,Operational Issues,3/12/2024,neutral,opened,desktop,yes,yes
+1157,Maurine Golding,Professional,Legal,Chris Consadine,Professional,Sales,Legal Matters,3/7/2024,positive,opened,desktop,yes,yes
+1158,Maurine Golding,Professional,Legal,Grace Spracklin,Professional,Sales,Operational Issues,3/6/2024,neutral,opened,mobile,yes,yes
+1159,Maurine Golding,Professional,Legal,Sumner Blakeway,Professional,Sales,Project Updates,3/11/2024,neutral,opened,desktop,no,yes
+1160,Maurine Golding,Professional,Legal,Emmey Matoshin,Middle level management,Sales,Legal Matters,3/2/2024,neutral,opened,desktop,no,no
+1161,Maurine Golding,Professional,Legal,Nelia Routledge,Professional,Sales,Legal Matters,3/1/2024,negative,opened,desktop,no,yes
+1162,Maurine Golding,Professional,Legal,Ferdinande Stickels,Professional,Sales,Legal Matters,3/15/2024,neutral,opened,desktop,yes,yes
+1163,Maurine Golding,Professional,Legal,Tades Querrard,Professional,Sales,Vendor Relations,3/5/2024,positive,opened,mobile,yes,yes
+1164,Maurine Golding,Professional,Legal,Anatole Hansie,Professional,Sales,Legal Matters,3/25/2024,neutral,opened,desktop,yes,yes
+1165,Maurine Golding,Professional,Legal,Chris Consadine,Professional,Sales,Vendor Relations,3/14/2024,positive,opened,desktop,yes,yes
+1166,Maurine Golding,Professional,Legal,Grace Spracklin,Professional,Sales,Legal Matters,3/18/2024,neutral,opened,mobile,yes,yes
+1167,Maurine Golding,Professional,Legal,Sumner Blakeway,Professional,Sales,Legal Matters,3/1/2024,neutral,opened,desktop,yes,yes
+1168,Faythe Vassel,Professional,Legal,Emmey Matoshin,Middle level management,Sales,Legal Matters,3/25/2024,neutral,opened,desktop,yes,yes
+1169,Faythe Vassel,Professional,Legal,Nelia Routledge,Professional,Sales,Legal Matters,3/29/2024,neutral,opened,desktop,no,yes
+1170,Faythe Vassel,Professional,Legal,Ferdinande Stickels,Professional,Sales,Legal Matters,3/11/2024,positive,opened,desktop,no,yes
+1171,Faythe Vassel,Professional,Legal,Tades Querrard,Professional,Sales,Operational Issues,3/8/2024,neutral,unopened,desktop,yes,yes
+1172,Faythe Vassel,Professional,Legal,Anatole Hansie,Professional,Sales,Legal Matters,3/1/2024,neutral,opened,desktop,yes,yes
+1173,Faythe Vassel,Professional,Legal,Chris Consadine,Professional,Sales,Legal Matters,3/22/2024,neutral,opened,desktop,yes,yes
+1174,Faythe Vassel,Professional,Legal,Grace Spracklin,Professional,Sales,Legal Matters,3/7/2024,negative,opened,desktop,yes,yes
+1175,Faythe Vassel,Professional,Legal,Sumner Blakeway,Professional,Sales,Legal Matters,3/22/2024,positive,opened,desktop,yes,yes
+1176,Faythe Vassel,Professional,Legal,Emmey Matoshin,Middle level management,Sales,Legal Matters,3/5/2024,neutral,opened,desktop,yes,yes
+1177,Faythe Vassel,Professional,Legal,Nelia Routledge,Professional,Sales,Legal Matters,3/29/2024,neutral,opened,desktop,yes,yes
+1178,Faythe Vassel,Professional,Legal,Ferdinande Stickels,Professional,Sales,Internal Policies and Procedures,3/28/2024,neutral,opened,desktop,yes,yes
+1179,Faythe Vassel,Professional,Legal,Tades Querrard,Professional,Sales,Operational Issues,3/20/2024,positive,opened,desktop,yes,yes
+1180,Faythe Vassel,Professional,Legal,Anatole Hansie,Professional,Sales,Legal Matters,3/8/2024,neutral,unopened,desktop,yes,yes
+1181,Faythe Vassel,Professional,Legal,Chris Consadine,Professional,Sales,Internal Policies and Procedures,3/28/2024,positive,opened,desktop,yes,yes
+1182,Faythe Vassel,Professional,Legal,Grace Spracklin,Professional,Sales,Legal Matters,3/15/2024,neutral,opened,desktop,yes,yes
+1183,Faythe Vassel,Professional,Legal,Sumner Blakeway,Professional,Sales,Legal Matters,3/26/2024,neutral,opened,mobile,yes,yes
+1184,Blithe Arnaudet,Middle level management,Finance and Accounting,Emmey Matoshin,Middle level management,Sales,Finance and Accounting,3/26/2024,positive,opened,desktop,yes,yes
+1185,Blithe Arnaudet,Middle level management,Finance and Accounting,Emmey Matoshin,Middle level management,Sales,Meeting Scheduling,3/13/2024,positive,opened,desktop,yes,yes
+1186,Blithe Arnaudet,Middle level management,Finance and Accounting,Emmey Matoshin,Middle level management,Sales,Project Updates,3/15/2024,neutral,opened,desktop,yes,yes
+1187,Blithe Arnaudet,Middle level management,Finance and Accounting,Emmey Matoshin,Middle level management,Sales,Finance and Accounting,3/25/2024,positive,opened,desktop,yes,yes
+1188,Blithe Arnaudet,Middle level management,Finance and Accounting,Emmey Matoshin,Middle level management,Sales,Internal Policies and Procedures,3/1/2024,positive,opened,desktop,yes,yes
+1189,Blithe Arnaudet,Middle level management,Finance and Accounting,Emmey Matoshin,Middle level management,Sales,Finance and Accounting,3/20/2024,neutral,opened,desktop,no,yes
+1190,Blithe Arnaudet,Middle level management,Finance and Accounting,Emmey Matoshin,Middle level management,Sales,Finance and Accounting,3/12/2024,neutral,opened,desktop,yes,yes
+1191,Blithe Arnaudet,Middle level management,Finance and Accounting,Emmey Matoshin,Middle level management,Sales,Internal Policies and Procedures,3/13/2024,positive,opened,desktop,yes,yes
+1192,Blithe Arnaudet,Middle level management,Finance and Accounting,Emmey Matoshin,Middle level management,Sales,Project Updates,3/1/2024,positive,opened,desktop,yes,yes
+1193,Emmey Matoshin,Middle level management,Sales,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/28/2024,positive,opened,mobile,yes,yes
+1194,Emmey Matoshin,Middle level management,Sales,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/7/2024,negative,opened,desktop,yes,yes
+1195,Emmey Matoshin,Middle level management,Sales,Blithe Arnaudet,Middle level management,Finance and Accounting,Operational Issues,3/14/2024,neutral,opened,desktop,no,yes
+1196,Emmey Matoshin,Middle level management,Sales,Blithe Arnaudet,Middle level management,Finance and Accounting,Meeting Scheduling,3/8/2024,positive,opened,desktop,yes,yes
+1197,Emmey Matoshin,Middle level management,Sales,Blithe Arnaudet,Middle level management,Finance and Accounting,Finance and Accounting,3/23/2024,neutral,opened,mobile,no,no
