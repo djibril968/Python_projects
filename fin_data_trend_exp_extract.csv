@@ -1,0 +1,469 @@
+Month_name,mon_no,Quarter,week,week_day,Biz_line,Rev_exp_group,Expense_subgroup,Rev_or_exp,Amount
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,Opex,Rent,Expense,15000
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,Opex,Equipment,Expense,9000
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,Opex,Marketing,Expense,30000
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,Opex,Payroll,Expense,40000
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,Opex,R&D,Expense,30000
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,Opex,Other,Expense,1500
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,COGS,Materials,Expense,20000
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,COGS,Packaging,Expense,1200
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,COGS,Shipping,Expense,2700
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,COGS,Sales,Expense,3000
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,COGS,Labor,Expense,65000
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,COGS,Other,Expense,2100
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,Interest and tax,Interest and tax,Expense,12000
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,Opex,Rent,Expense,15000
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,Opex,Equipment,Expense,9000
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,Opex,Marketing,Expense,30000
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,Opex,Payroll,Expense,40000
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,Opex,R&D,Expense,30000
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,Opex,Other,Expense,1500
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,COGS,Materials,Expense,20000
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,COGS,Packaging,Expense,1200
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,COGS,Shipping,Expense,2400
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,COGS,Sales,Expense,3000
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,COGS,Labor,Expense,65000
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,COGS,Other,Expense,1800
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,Interest and tax,Interest and tax,Expense,12000
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,Opex,Rent,Expense,15000
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,Opex,Equipment,Expense,9000
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,Opex,Marketing,Expense,15000
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,Opex,Payroll,Expense,40000
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,Opex,R&D,Expense,30000
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,Opex,Other,Expense,900
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,COGS,Materials,Expense,20000
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,COGS,Packaging,Expense,600
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,COGS,Shipping,Expense,1500
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,COGS,Sales,Expense,2100
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,COGS,Labor,Expense,65000
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,COGS,Other,Expense,1500
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,Interest and tax,Interest and tax,Expense,12000
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,Opex,Rent,Expense,15000
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,Opex,Equipment,Expense,9000
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,Opex,Marketing,Expense,15000
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,Opex,Payroll,Expense,40000
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,Opex,R&D,Expense,30000
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,Opex,Other,Expense,900
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,COGS,Materials,Expense,20000
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,COGS,Packaging,Expense,600
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,COGS,Shipping,Expense,1500
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,COGS,Sales,Expense,1800
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,COGS,Labor,Expense,65000
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,COGS,Other,Expense,3000
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,Interest and tax,Interest and tax,Expense,12000
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,Interest and tax,Interest and tax,Expense,12000
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,Opex,Rent,Expense,15000
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,Opex,Equipment,Expense,11400
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,Opex,Marketing,Expense,30000
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,Opex,Payroll,Expense,40000
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,Opex,R&D,Expense,30000
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,Opex,Other,Expense,1200
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,COGS,Materials,Expense,20000
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,COGS,Packaging,Expense,1200
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,COGS,Shipping,Expense,2400
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,COGS,Sales,Expense,2700
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,COGS,Labor,Expense,65000
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,COGS,Other,Expense,3000
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,Interest and tax,Interest and tax,Expense,12000
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,Opex,Rent,Expense,15000
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,Opex,Equipment,Expense,11400
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,Opex,Marketing,Expense,30000
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,Opex,Payroll,Expense,40000
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,Opex,R&D,Expense,30000
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,Opex,Other,Expense,900
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,COGS,Materials,Expense,20000
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,COGS,Packaging,Expense,900
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,COGS,Shipping,Expense,2700
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,COGS,Sales,Expense,2400
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,COGS,Labor,Expense,65000
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,COGS,Other,Expense,3000
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,Interest and tax,Interest and tax,Expense,12000
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,Opex,Rent,Expense,15000
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,Opex,Equipment,Expense,11400
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,Opex,Marketing,Expense,20000
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,Opex,Payroll,Expense,40000
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,Opex,R&D,Expense,30000
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,Opex,Other,Expense,600
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,COGS,Materials,Expense,20000
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,COGS,Packaging,Expense,600
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,COGS,Shipping,Expense,1500
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,COGS,Sales,Expense,1800
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,COGS,Labor,Expense,50000
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,COGS,Other,Expense,3000
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,Interest and tax,Interest and tax,Expense,12000
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,Opex,Rent,Expense,15000
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,Opex,Equipment,Expense,11400
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,Opex,Marketing,Expense,15000
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,Opex,Payroll,Expense,40000
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,Opex,R&D,Expense,30000
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,Opex,Other,Expense,600
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,COGS,Materials,Expense,20000
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,COGS,Packaging,Expense,600
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,COGS,Shipping,Expense,1500
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,COGS,Sales,Expense,1800
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,COGS,Labor,Expense,50000
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,COGS,Other,Expense,3000
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,Interest and tax,Interest and tax,Expense,12000
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,Opex,Rent,Expense,15000
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,Opex,Equipment,Expense,11400
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,Opex,Marketing,Expense,15000
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,Opex,Payroll,Expense,32000
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,Opex,R&D,Expense,30000
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,Opex,Other,Expense,900
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,COGS,Materials,Expense,20000
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,COGS,Packaging,Expense,600
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,COGS,Shipping,Expense,1200
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,COGS,Sales,Expense,1800
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,COGS,Labor,Expense,50000
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,COGS,Other,Expense,2100
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,Interest and tax,Interest and tax,Expense,12000
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,Opex,Rent,Expense,15000
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,Opex,Equipment,Expense,12000
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,Opex,Marketing,Expense,15000
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,Opex,Payroll,Expense,32000
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,Opex,R&D,Expense,30000
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,Opex,Other,Expense,600
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,COGS,Materials,Expense,20000
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,COGS,Packaging,Expense,600
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,COGS,Shipping,Expense,1200
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,COGS,Sales,Expense,1800
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,COGS,Labor,Expense,50000
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,COGS,Other,Expense,2100
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,Interest and tax,Interest and tax,Expense,12000
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,Opex,Rent,Expense,15000
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,Opex,Equipment,Expense,12000
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,Opex,Marketing,Expense,20000
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,Opex,Payroll,Expense,32000
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,Opex,R&D,Expense,30000
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,Opex,Other,Expense,1200
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,COGS,Materials,Expense,20000
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,COGS,Packaging,Expense,900
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,COGS,Shipping,Expense,900
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,COGS,Sales,Expense,2100
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,COGS,Labor,Expense,50000
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,COGS,Other,Expense,1800
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,Interest and tax,Interest and tax,Expense,12000
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,Opex,Rent,Expense,15000
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,Opex,Equipment,Expense,12000
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,Opex,Marketing,Expense,30000
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,Opex,Payroll,Expense,32000
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,Opex,R&D,Expense,30000
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,Opex,Other,Expense,2400
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,COGS,Materials,Expense,20000
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,COGS,Packaging,Expense,1200
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,COGS,Shipping,Expense,2100
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,COGS,Sales,Expense,2700
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,COGS,Labor,Expense,50000
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,COGS,Other,Expense,2100
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,Opex,Rent,Expense,18000
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,Opex,Equipment,Expense,54000
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,Opex,Marketing,Expense,50000
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,Opex,Payroll,Expense,60000
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,Opex,R&D,Expense,10000
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,Opex,Other,Expense,14400
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,COGS,Materials,Expense,50000
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,COGS,Packaging,Expense,6000
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,COGS,Shipping,Expense,130000
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,COGS,Sales,Expense,30000
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,COGS,Labor,Expense,180000
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,COGS,Other,Expense,12600
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,Interest and tax,Interest and tax,Expense,49000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,Opex,Rent,Expense,27000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,Opex,Equipment,Expense,54000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,Opex,Marketing,Expense,50000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,Opex,Payroll,Expense,60000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,Opex,R&D,Expense,10000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,Opex,Other,Expense,9000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,COGS,Materials,Expense,20000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,COGS,Packaging,Expense,5000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,COGS,Shipping,Expense,12000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,COGS,Sales,Expense,25000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,COGS,Labor,Expense,180000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,COGS,Other,Expense,12600
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,Interest and tax,Interest and tax,Expense,48500
+Mar,3,qtr 1,week 4,Friday,Sports equipment,Opex,Rent,Expense,27000
+Mar,3,qtr 1,week 4,Friday,Sports equipment,Opex,Equipment,Expense,54000
+Mar,3,qtr 1,week 4,Friday,Sports equipment,Opex,Marketing,Expense,30000
+Mar,3,qtr 1,week 4,Friday,Sports equipment,Opex,Payroll,Expense,60000
+Mar,3,qtr 1,week 4,Friday,Sports equipment,Opex,R&D,Expense,10000
+Mar,3,qtr 1,week 4,Friday,Sports equipment,Opex,Other,Expense,5400
+Mar,3,qtr 1,week 4,Friday,Sports equipment,COGS,Materials,Expense,54000
+Mar,3,qtr 1,week 4,Friday,Sports equipment,COGS,Packaging,Expense,3600
+Mar,3,qtr 1,week 4,Friday,Sports equipment,COGS,Shipping,Expense,9000
+Mar,3,qtr 1,week 4,Friday,Sports equipment,COGS,Sales,Expense,12600
+Mar,3,qtr 1,week 4,Friday,Sports equipment,COGS,Labor,Expense,180000
+Mar,3,qtr 1,week 4,Friday,Sports equipment,COGS,Other,Expense,12600
+Mar,3,qtr 1,week 4,Friday,Sports equipment,Interest and tax,Interest and tax,Expense,37000
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,Opex,Rent,Expense,27000
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,Opex,Equipment,Expense,54000
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,Opex,Marketing,Expense,30000
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,Opex,Payroll,Expense,60000
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,Opex,R&D,Expense,10000
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,Opex,Other,Expense,5400
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,COGS,Materials,Expense,25000
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,COGS,Packaging,Expense,3600
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,COGS,Shipping,Expense,9000
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,COGS,Sales,Expense,10800
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,COGS,Labor,Expense,180000
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,COGS,Other,Expense,12600
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,Interest and tax,Interest and tax,Expense,27200
+May,5,qtr 2,week 4,Wednesday,Sports equipment,Opex,Rent,Expense,27000
+May,5,qtr 2,week 4,Wednesday,Sports equipment,Opex,Equipment,Expense,68400
+May,5,qtr 2,week 4,Wednesday,Sports equipment,Opex,Marketing,Expense,50000
+May,5,qtr 2,week 4,Wednesday,Sports equipment,Opex,Payroll,Expense,60000
+May,5,qtr 2,week 4,Wednesday,Sports equipment,Opex,R&D,Expense,10000
+May,5,qtr 2,week 4,Wednesday,Sports equipment,Opex,Other,Expense,7200
+May,5,qtr 2,week 4,Wednesday,Sports equipment,COGS,Materials,Expense,54000
+May,5,qtr 2,week 4,Wednesday,Sports equipment,COGS,Packaging,Expense,5000
+May,5,qtr 2,week 4,Wednesday,Sports equipment,COGS,Shipping,Expense,14000
+May,5,qtr 2,week 4,Wednesday,Sports equipment,COGS,Sales,Expense,40000
+May,5,qtr 2,week 4,Wednesday,Sports equipment,COGS,Labor,Expense,234000
+May,5,qtr 2,week 4,Wednesday,Sports equipment,COGS,Other,Expense,12600
+May,5,qtr 2,week 4,Wednesday,Sports equipment,Interest and tax,Interest and tax,Expense,41800
+Jun,6,qtr 2,week 4,Friday,Sports equipment,Opex,Rent,Expense,27000
+Jun,6,qtr 2,week 4,Friday,Sports equipment,Opex,Equipment,Expense,68400
+Jun,6,qtr 2,week 4,Friday,Sports equipment,Opex,Marketing,Expense,50000
+Jun,6,qtr 2,week 4,Friday,Sports equipment,Opex,Payroll,Expense,60000
+Jun,6,qtr 2,week 4,Friday,Sports equipment,Opex,R&D,Expense,10000
+Jun,6,qtr 2,week 4,Friday,Sports equipment,Opex,Other,Expense,5400
+Jun,6,qtr 2,week 4,Friday,Sports equipment,COGS,Materials,Expense,54000
+Jun,6,qtr 2,week 4,Friday,Sports equipment,COGS,Packaging,Expense,5000
+Jun,6,qtr 2,week 4,Friday,Sports equipment,COGS,Shipping,Expense,13000
+Jun,6,qtr 2,week 4,Friday,Sports equipment,COGS,Sales,Expense,35000
+Jun,6,qtr 2,week 4,Friday,Sports equipment,COGS,Labor,Expense,234000
+Jun,6,qtr 2,week 4,Friday,Sports equipment,COGS,Other,Expense,12600
+Jun,6,qtr 2,week 4,Friday,Sports equipment,Interest and tax,Interest and tax,Expense,21700
+Jul,7,qtr 3,week 5,Monday,Sports equipment,Opex,Rent,Expense,27000
+Jul,7,qtr 3,week 5,Monday,Sports equipment,Opex,Equipment,Expense,68400
+Jul,7,qtr 3,week 5,Monday,Sports equipment,Opex,Marketing,Expense,40000
+Jul,7,qtr 3,week 5,Monday,Sports equipment,Opex,Payroll,Expense,60000
+Jul,7,qtr 3,week 5,Monday,Sports equipment,Opex,R&D,Expense,10000
+Jul,7,qtr 3,week 5,Monday,Sports equipment,Opex,Other,Expense,3600
+Jul,7,qtr 3,week 5,Monday,Sports equipment,COGS,Materials,Expense,54000
+Jul,7,qtr 3,week 5,Monday,Sports equipment,COGS,Packaging,Expense,3600
+Jul,7,qtr 3,week 5,Monday,Sports equipment,COGS,Shipping,Expense,9000
+Jul,7,qtr 3,week 5,Monday,Sports equipment,COGS,Sales,Expense,10800
+Jul,7,qtr 3,week 5,Monday,Sports equipment,COGS,Labor,Expense,234000
+Jul,7,qtr 3,week 5,Monday,Sports equipment,COGS,Other,Expense,12600
+Jul,7,qtr 3,week 5,Monday,Sports equipment,Interest and tax,Interest and tax,Expense,27000
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,Opex,Rent,Expense,36000
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,Opex,Equipment,Expense,68400
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,Opex,Marketing,Expense,20000
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,Opex,Payroll,Expense,55000
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,Opex,R&D,Expense,10000
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,Opex,Other,Expense,3600
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,COGS,Materials,Expense,54000
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,COGS,Packaging,Expense,3600
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,COGS,Shipping,Expense,9000
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,COGS,Sales,Expense,10800
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,COGS,Labor,Expense,200000
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,COGS,Other,Expense,12600
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,Interest and tax,Interest and tax,Expense,23800
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,Opex,Rent,Expense,36000
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,Opex,Equipment,Expense,68400
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,Opex,Marketing,Expense,20000
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,Opex,Payroll,Expense,70000
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,Opex,R&D,Expense,10000
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,Opex,Other,Expense,5400
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,COGS,Materials,Expense,25000
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,COGS,Packaging,Expense,3600
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,COGS,Shipping,Expense,10000
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,COGS,Sales,Expense,30000
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,COGS,Labor,Expense,200000
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,COGS,Other,Expense,12600
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,Interest and tax,Interest and tax,Expense,15000
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,Opex,Rent,Expense,36000
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,Opex,Equipment,Expense,72000
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,Opex,Marketing,Expense,20000
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,Opex,Payroll,Expense,70000
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,Opex,R&D,Expense,10000
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,Opex,Other,Expense,3600
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,COGS,Materials,Expense,25000
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,COGS,Packaging,Expense,3600
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,COGS,Shipping,Expense,10000
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,COGS,Sales,Expense,30000
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,COGS,Labor,Expense,200000
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,COGS,Other,Expense,12600
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,Interest and tax,Interest and tax,Expense,34300
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,Opex,Rent,Expense,36000
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,Opex,Equipment,Expense,72000
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,Opex,Marketing,Expense,30000
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,Opex,Payroll,Expense,70000
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,Opex,R&D,Expense,10000
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,Opex,Other,Expense,7200
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,COGS,Materials,Expense,25000
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,COGS,Packaging,Expense,5400
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,COGS,Shipping,Expense,12000
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,COGS,Sales,Expense,45000
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,COGS,Labor,Expense,200000
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,COGS,Other,Expense,12600
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,Interest and tax,Interest and tax,Expense,25200
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,Opex,Rent,Expense,36000
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,Opex,Equipment,Expense,72000
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,Opex,Marketing,Expense,50000
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,Opex,Payroll,Expense,70000
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,Opex,R&D,Expense,10000
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,Opex,Other,Expense,14400
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,COGS,Materials,Expense,25000
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,COGS,Packaging,Expense,6000
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,COGS,Shipping,Expense,15000
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,COGS,Sales,Expense,50000
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,COGS,Labor,Expense,200000
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,COGS,Other,Expense,12600
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,Interest and tax,Interest and tax,Expense,60000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,Opex,Rent,Expense,15000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,Opex,Equipment,Expense,30000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,Opex,Marketing,Expense,40000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,Opex,Payroll,Expense,52000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,Opex,R&D,Expense,5000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,Opex,Other,Expense,5000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,COGS,Materials,Expense,30000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,COGS,Packaging,Expense,4000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,COGS,Shipping,Expense,9000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,COGS,Sales,Expense,10000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,COGS,Labor,Expense,100000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,COGS,Other,Expense,7000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,Interest and tax,Interest and tax,Expense,52000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,Interest and tax,Interest and tax,Expense,39000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,Opex,Rent,Expense,15000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,Opex,Equipment,Expense,30000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,Opex,Marketing,Expense,40000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,Opex,Payroll,Expense,52000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,Opex,R&D,Expense,5000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,Opex,Other,Expense,5000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,COGS,Materials,Expense,30000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,COGS,Packaging,Expense,4000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,COGS,Shipping,Expense,8000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,COGS,Sales,Expense,10000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,COGS,Labor,Expense,100000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,COGS,Other,Expense,7000
+Mar,3,qtr 1,week 4,Friday,Sportswear,Interest and tax,Interest and tax,Expense,27000
+Mar,3,qtr 1,week 4,Friday,Sportswear,Opex,Rent,Expense,15000
+Mar,3,qtr 1,week 4,Friday,Sportswear,Opex,Equipment,Expense,30000
+Mar,3,qtr 1,week 4,Friday,Sportswear,Opex,Marketing,Expense,20000
+Mar,3,qtr 1,week 4,Friday,Sportswear,Opex,Payroll,Expense,52000
+Mar,3,qtr 1,week 4,Friday,Sportswear,Opex,R&D,Expense,5000
+Mar,3,qtr 1,week 4,Friday,Sportswear,Opex,Other,Expense,3000
+Mar,3,qtr 1,week 4,Friday,Sportswear,COGS,Materials,Expense,30000
+Mar,3,qtr 1,week 4,Friday,Sportswear,COGS,Packaging,Expense,2000
+Mar,3,qtr 1,week 4,Friday,Sportswear,COGS,Shipping,Expense,5000
+Mar,3,qtr 1,week 4,Friday,Sportswear,COGS,Sales,Expense,7000
+Mar,3,qtr 1,week 4,Friday,Sportswear,COGS,Labor,Expense,100000
+Mar,3,qtr 1,week 4,Friday,Sportswear,COGS,Other,Expense,7000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,Interest and tax,Interest and tax,Expense,20000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,Opex,Rent,Expense,15000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,Opex,Equipment,Expense,30000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,Opex,Marketing,Expense,20000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,Opex,Payroll,Expense,52000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,Opex,R&D,Expense,5000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,Opex,Other,Expense,3000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,COGS,Materials,Expense,30000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,COGS,Packaging,Expense,2000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,COGS,Shipping,Expense,5000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,COGS,Sales,Expense,6000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,COGS,Labor,Expense,100000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,COGS,Other,Expense,7000
+May,5,qtr 2,week 4,Wednesday,Sportswear,Interest and tax,Interest and tax,Expense,31000
+May,5,qtr 2,week 4,Wednesday,Sportswear,Opex,Rent,Expense,15000
+May,5,qtr 2,week 4,Wednesday,Sportswear,Opex,Equipment,Expense,38000
+May,5,qtr 2,week 4,Wednesday,Sportswear,Opex,Marketing,Expense,40000
+May,5,qtr 2,week 4,Wednesday,Sportswear,Opex,Payroll,Expense,52000
+May,5,qtr 2,week 4,Wednesday,Sportswear,Opex,R&D,Expense,5000
+May,5,qtr 2,week 4,Wednesday,Sportswear,Opex,Other,Expense,4000
+May,5,qtr 2,week 4,Wednesday,Sportswear,COGS,Materials,Expense,30000
+May,5,qtr 2,week 4,Wednesday,Sportswear,COGS,Packaging,Expense,4000
+May,5,qtr 2,week 4,Wednesday,Sportswear,COGS,Shipping,Expense,8000
+May,5,qtr 2,week 4,Wednesday,Sportswear,COGS,Sales,Expense,9000
+May,5,qtr 2,week 4,Wednesday,Sportswear,COGS,Labor,Expense,130000
+May,5,qtr 2,week 4,Wednesday,Sportswear,COGS,Other,Expense,7000
+Jun,6,qtr 2,week 4,Friday,Sportswear,Interest and tax,Interest and tax,Expense,56700
+Jun,6,qtr 2,week 4,Friday,Sportswear,Opex,Rent,Expense,15000
+Jun,6,qtr 2,week 4,Friday,Sportswear,Opex,Equipment,Expense,38000
+Jun,6,qtr 2,week 4,Friday,Sportswear,Opex,Marketing,Expense,40000
+Jun,6,qtr 2,week 4,Friday,Sportswear,Opex,Payroll,Expense,52000
+Jun,6,qtr 2,week 4,Friday,Sportswear,Opex,R&D,Expense,5000
+Jun,6,qtr 2,week 4,Friday,Sportswear,Opex,Other,Expense,3000
+Jun,6,qtr 2,week 4,Friday,Sportswear,COGS,Materials,Expense,30000
+Jun,6,qtr 2,week 4,Friday,Sportswear,COGS,Packaging,Expense,3000
+Jun,6,qtr 2,week 4,Friday,Sportswear,COGS,Shipping,Expense,9000
+Jun,6,qtr 2,week 4,Friday,Sportswear,COGS,Sales,Expense,8000
+Jun,6,qtr 2,week 4,Friday,Sportswear,COGS,Labor,Expense,130000
+Jun,6,qtr 2,week 4,Friday,Sportswear,COGS,Other,Expense,7000
+Jul,7,qtr 3,week 5,Monday,Sportswear,Interest and tax,Interest and tax,Expense,30300
+Jul,7,qtr 3,week 5,Monday,Sportswear,Opex,Rent,Expense,15000
+Jul,7,qtr 3,week 5,Monday,Sportswear,Opex,Equipment,Expense,38000
+Jul,7,qtr 3,week 5,Monday,Sportswear,Opex,Marketing,Expense,30000
+Jul,7,qtr 3,week 5,Monday,Sportswear,Opex,Payroll,Expense,45000
+Jul,7,qtr 3,week 5,Monday,Sportswear,Opex,R&D,Expense,5000
+Jul,7,qtr 3,week 5,Monday,Sportswear,Opex,Other,Expense,2000
+Jul,7,qtr 3,week 5,Monday,Sportswear,COGS,Materials,Expense,30000
+Jul,7,qtr 3,week 5,Monday,Sportswear,COGS,Packaging,Expense,2000
+Jul,7,qtr 3,week 5,Monday,Sportswear,COGS,Shipping,Expense,5000
+Jul,7,qtr 3,week 5,Monday,Sportswear,COGS,Sales,Expense,6000
+Jul,7,qtr 3,week 5,Monday,Sportswear,COGS,Labor,Expense,130000
+Jul,7,qtr 3,week 5,Monday,Sportswear,COGS,Other,Expense,7000
+Aug,8,qtr 3,week 4,Thursday,Sportswear,Interest and tax,Interest and tax,Expense,18600
+Aug,8,qtr 3,week 4,Thursday,Sportswear,Opex,Rent,Expense,20000
+Aug,8,qtr 3,week 4,Thursday,Sportswear,Opex,Equipment,Expense,38000
+Aug,8,qtr 3,week 4,Thursday,Sportswear,Opex,Marketing,Expense,20000
+Aug,8,qtr 3,week 4,Thursday,Sportswear,Opex,Payroll,Expense,45000
+Aug,8,qtr 3,week 4,Thursday,Sportswear,Opex,R&D,Expense,5000
+Aug,8,qtr 3,week 4,Thursday,Sportswear,Opex,Other,Expense,2000
+Aug,8,qtr 3,week 4,Thursday,Sportswear,COGS,Materials,Expense,30000
+Aug,8,qtr 3,week 4,Thursday,Sportswear,COGS,Packaging,Expense,2000
+Aug,8,qtr 3,week 4,Thursday,Sportswear,COGS,Shipping,Expense,5000
+Aug,8,qtr 3,week 4,Thursday,Sportswear,COGS,Sales,Expense,6000
+Aug,8,qtr 3,week 4,Thursday,Sportswear,COGS,Labor,Expense,130000
+Aug,8,qtr 3,week 4,Thursday,Sportswear,COGS,Other,Expense,7000
+Sep,9,qtr 3,week 4,Saturday,Sportswear,Interest and tax,Interest and tax,Expense,26300
+Sep,9,qtr 3,week 4,Saturday,Sportswear,Opex,Rent,Expense,20000
+Sep,9,qtr 3,week 4,Saturday,Sportswear,Opex,Equipment,Expense,38000
+Sep,9,qtr 3,week 4,Saturday,Sportswear,Opex,Marketing,Expense,15000
+Sep,9,qtr 3,week 4,Saturday,Sportswear,Opex,Payroll,Expense,45000
+Sep,9,qtr 3,week 4,Saturday,Sportswear,Opex,R&D,Expense,5000
+Sep,9,qtr 3,week 4,Saturday,Sportswear,Opex,Other,Expense,3000
+Sep,9,qtr 3,week 4,Saturday,Sportswear,COGS,Materials,Expense,30000
+Sep,9,qtr 3,week 4,Saturday,Sportswear,COGS,Packaging,Expense,2000
+Sep,9,qtr 3,week 4,Saturday,Sportswear,COGS,Shipping,Expense,4000
+Sep,9,qtr 3,week 4,Saturday,Sportswear,COGS,Sales,Expense,6000
+Sep,9,qtr 3,week 4,Saturday,Sportswear,COGS,Labor,Expense,130000
+Sep,9,qtr 3,week 4,Saturday,Sportswear,COGS,Other,Expense,7000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,Interest and tax,Interest and tax,Expense,22000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,Opex,Rent,Expense,20000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,Opex,Equipment,Expense,40000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,Opex,Marketing,Expense,15000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,Opex,Payroll,Expense,45000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,Opex,R&D,Expense,5000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,Opex,Other,Expense,2000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,COGS,Materials,Expense,30000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,COGS,Packaging,Expense,2000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,COGS,Shipping,Expense,4000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,COGS,Sales,Expense,6000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,COGS,Labor,Expense,110000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,COGS,Other,Expense,7000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,Interest and tax,Interest and tax,Expense,15300
+Nov,11,qtr 4,week 4,Thursday,Sportswear,Opex,Rent,Expense,20000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,Opex,Equipment,Expense,40000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,Opex,Marketing,Expense,30000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,Opex,Payroll,Expense,45000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,Opex,R&D,Expense,5000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,Opex,Other,Expense,4000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,COGS,Materials,Expense,30000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,COGS,Packaging,Expense,3000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,COGS,Shipping,Expense,3000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,COGS,Sales,Expense,7000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,COGS,Labor,Expense,110000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,COGS,Other,Expense,7000
+Dec,12,qtr 4,week 5,Sunday,Sportswear,Interest and tax,Interest and tax,Expense,36700
+Dec,12,qtr 4,week 5,Sunday,Sportswear,Opex,Rent,Expense,20000
+Dec,12,qtr 4,week 5,Sunday,Sportswear,Opex,Equipment,Expense,40000
+Dec,12,qtr 4,week 5,Sunday,Sportswear,Opex,Marketing,Expense,40000
+Dec,12,qtr 4,week 5,Sunday,Sportswear,Opex,Payroll,Expense,50000
+Dec,12,qtr 4,week 5,Sunday,Sportswear,Opex,R&D,Expense,5000
+Dec,12,qtr 4,week 5,Sunday,Sportswear,Opex,Other,Expense,8000
+Dec,12,qtr 4,week 5,Sunday,Sportswear,COGS,Materials,Expense,30000
+Dec,12,qtr 4,week 5,Sunday,Sportswear,COGS,Packaging,Expense,4000
+Dec,12,qtr 4,week 5,Sunday,Sportswear,COGS,Shipping,Expense,7000
+Dec,12,qtr 4,week 5,Sunday,Sportswear,COGS,Sales,Expense,9000
+Dec,12,qtr 4,week 5,Sunday,Sportswear,COGS,Labor,Expense,110000
+Dec,12,qtr 4,week 5,Sunday,Sportswear,COGS,Other,Expense,7000

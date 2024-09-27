@@ -1,0 +1,113 @@
+Month_name,mon_no,Quarter,week,week_day,Biz_line,Rev_exp_group,Rev_or_exp,Amount
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,Sales,Revenue,153000
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,Consulting and professional services,Revenue,27000
+Jan,1,qtr 1,week 5,Tuesday,Nutrition and Food Supplements ,Other income,Revenue,6000
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,Consulting and professional services,Revenue,22500
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,Consulting and professional services,Revenue,9000
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,Sales,Revenue,137700
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,Consulting and professional services,Revenue,13500
+Feb,2,qtr 1,week 4,Tuesday,Nutrition and Food Supplements ,Other income,Revenue,3000
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,Consulting and professional services,Revenue,19800
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,Consulting and professional services,Revenue,16200
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,Sales,Revenue,114750
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,Consulting and professional services,Revenue,9000
+Mar,3,qtr 1,week 4,Friday,Nutrition and Food Supplements ,Other income,Revenue,3600
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,Consulting and professional services,Revenue,90000
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,Consulting and professional services,Revenue,9000
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,Sales,Revenue,91800
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,Consulting and professional services,Revenue,10800
+Apr,4,qtr 2,week 5,Sunday,Nutrition and Food Supplements ,Other income,Revenue,3300
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,Consulting and professional services,Revenue,10800
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,Consulting and professional services,Revenue,18900
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,Sales,Revenue,137700
+May,5,qtr 2,week 4,Wednesday,Nutrition and Food Supplements ,Other income,Revenue,1500
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,Sales,Revenue,168300
+Jun,6,qtr 2,week 4,Friday,Nutrition and Food Supplements ,Other income,Revenue,1200
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,Sales,Revenue,130050
+Jul,7,qtr 3,week 5,Monday,Nutrition and Food Supplements ,Other income,Revenue,6000
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,Sales,Revenue,114750
+Aug,8,qtr 3,week 4,Thursday,Nutrition and Food Supplements ,Other income,Revenue,3000
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,Sales,Revenue,122400
+Sep,9,qtr 3,week 4,Saturday,Nutrition and Food Supplements ,Other income,Revenue,3990
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,Sales,Revenue,110925
+Oct,10,qtr 4,week 5,Tuesday,Nutrition and Food Supplements ,Other income,Revenue,9000
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,Sales,Revenue,108630
+Nov,11,qtr 4,week 4,Thursday,Nutrition and Food Supplements ,Other income,Revenue,6000
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,Sales,Revenue,141525
+Dec,12,qtr 4,week 5,Sunday,Nutrition and Food Supplements ,Other income,Revenue,9000
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,Sales,Revenue,700000
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,Other income,Revenue,24000
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,Other income,Revenue,21000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,Sales,Revenue,600000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,Other income,Revenue,36000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,Other income,Revenue,19500
+Mar,3,qtr 1,week 4,Friday,Sports equipment,Sales,Revenue,550000
+Mar,3,qtr 1,week 4,Friday,Sports equipment,Other income,Revenue,24000
+Mar,3,qtr 1,week 4,Friday,Sports equipment,Other income,Revenue,19500
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,Sales,Revenue,490000
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,Other income,Revenue,30000
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,Other income,Revenue,19500
+Jan,1,qtr 1,week 5,Tuesday,Sports equipment,Consulting and professional services,Revenue,288000
+May,5,qtr 2,week 4,Wednesday,Sports equipment,Sales,Revenue,700000
+Feb,2,qtr 1,week 4,Tuesday,Sports equipment,Consulting and professional services,Revenue,120000
+May,5,qtr 2,week 4,Wednesday,Sports equipment,Other income,Revenue,19500
+Mar,3,qtr 1,week 4,Friday,Sports equipment,Consulting and professional services,Revenue,126000
+Apr,4,qtr 2,week 5,Sunday,Sports equipment,Consulting and professional services,Revenue,90000
+Jun,6,qtr 2,week 4,Friday,Sports equipment,Sales,Revenue,600000
+May,5,qtr 2,week 4,Wednesday,Sports equipment,Consulting and professional services,Revenue,129000
+Jun,6,qtr 2,week 4,Friday,Sports equipment,Other income,Revenue,19500
+Jun,6,qtr 2,week 4,Friday,Sports equipment,Consulting and professional services,Revenue,165000
+Jul,7,qtr 3,week 5,Monday,Sports equipment,Consulting and professional services,Revenue,100500
+Jul,7,qtr 3,week 5,Monday,Sports equipment,Sales,Revenue,600000
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,Consulting and professional services,Revenue,60000
+Jul,7,qtr 3,week 5,Monday,Sports equipment,Other income,Revenue,21000
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,Consulting and professional services,Revenue,69000
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,Consulting and professional services,Revenue,60000
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,Sales,Revenue,550000
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,Consulting and professional services,Revenue,57000
+Aug,8,qtr 3,week 4,Thursday,Sports equipment,Other income,Revenue,24600
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,Consulting and professional services,Revenue,126000
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,Sales,Revenue,400000
+Sep,9,qtr 3,week 4,Saturday,Sports equipment,Other income,Revenue,21900
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,Sales,Revenue,600000
+Oct,10,qtr 4,week 5,Tuesday,Sports equipment,Other income,Revenue,30000
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,Sales,Revenue,600000
+Nov,11,qtr 4,week 4,Thursday,Sports equipment,Other income,Revenue,21000
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,Sales,Revenue,750000
+Dec,12,qtr 4,week 5,Sunday,Sports equipment,Other income,Revenue,27000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,Sales,Revenue,510000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,Other income,Revenue,40000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,Sales,Revenue,459000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,Other income,Revenue,20000
+Mar,3,qtr 1,week 4,Friday,Sportswear,Sales,Revenue,382500
+Mar,3,qtr 1,week 4,Friday,Sportswear,Other income,Revenue,24000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,Sales,Revenue,306000
+Apr,4,qtr 2,week 5,Sunday,Sportswear,Other income,Revenue,22000
+May,5,qtr 2,week 4,Wednesday,Sportswear,Sales,Revenue,459000
+May,5,qtr 2,week 4,Wednesday,Sportswear,Other income,Revenue,100000
+Jun,6,qtr 2,week 4,Friday,Sportswear,Sales,Revenue,561000
+Jun,6,qtr 2,week 4,Friday,Sportswear,Other income,Revenue,80000
+Jul,7,qtr 3,week 5,Monday,Sportswear,Sales,Revenue,433500
+Jul,7,qtr 3,week 5,Monday,Sportswear,Other income,Revenue,40000
+Aug,8,qtr 3,week 4,Thursday,Sportswear,Sales,Revenue,382500
+Aug,8,qtr 3,week 4,Thursday,Sportswear,Other income,Revenue,20000
+Jan,1,qtr 1,week 5,Tuesday,Sportswear,Consulting and professional services,Revenue,180000
+Feb,2,qtr 1,week 4,Tuesday,Sportswear,Consulting and professional services,Revenue,150000
+Sep,9,qtr 3,week 4,Saturday,Sportswear,Sales,Revenue,408000
+Mar,3,qtr 1,week 4,Friday,Sportswear,Consulting and professional services,Revenue,60000
+Sep,9,qtr 3,week 4,Saturday,Sportswear,Other income,Revenue,26600
+Apr,4,qtr 2,week 5,Sunday,Sportswear,Consulting and professional services,Revenue,90000
+May,5,qtr 2,week 4,Wednesday,Sportswear,Consulting and professional services,Revenue,132000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,Sales,Revenue,369750
+Jun,6,qtr 2,week 4,Friday,Sportswear,Consulting and professional services,Revenue,108000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,Other income,Revenue,60000
+Jul,7,qtr 3,week 5,Monday,Sportswear,Consulting and professional services,Revenue,60000
+Aug,8,qtr 3,week 4,Thursday,Sportswear,Consulting and professional services,Revenue,60000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,Sales,Revenue,362100
+Sep,9,qtr 3,week 4,Saturday,Sportswear,Consulting and professional services,Revenue,60000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,Other income,Revenue,40000
+Oct,10,qtr 4,week 5,Tuesday,Sportswear,Consulting and professional services,Revenue,72000
+Nov,11,qtr 4,week 4,Thursday,Sportswear,Consulting and professional services,Revenue,72000
+Dec,12,qtr 4,week 5,Sunday,Sportswear,Sales,Revenue,471750
+Dec,12,qtr 4,week 5,Sunday,Sportswear,Consulting and professional services,Revenue,126000
+Dec,12,qtr 4,week 5,Sunday,Sportswear,Other income,Revenue,60000
